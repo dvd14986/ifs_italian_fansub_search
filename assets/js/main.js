@@ -14,6 +14,10 @@ async function loadData(){
 	addRows("alive", fansubData.alive)
 	bindHeadCheckbox("alive")
 
+	clearTable("misc")
+	addRows("misc", fansubData.misc)
+	bindHeadCheckbox("misc")
+
 	clearTable("dead")
 	addRows("dead", fansubData.dead)
 	bindHeadCheckbox("dead")
@@ -157,7 +161,19 @@ function buildSearchLink(type){
 	fansubData.alive.forEach(function(item){
 		if (item.selected){
 			websites.push(item.website.replace("https://www.",'').replace("http://www.",'').replace("https://",'').replace("http://",'').replace("www.",''))
-			torrents.concat(item.torrentSourceUrls)
+			torrents=torrents.concat(item.torrentSourceUrls)
+		}
+	});
+	fansubData.misc.forEach(function(item){
+		if (item.selected){
+			websites.push(item.website.replace("https://www.",'').replace("http://www.",'').replace("https://",'').replace("http://",'').replace("www.",''))
+			torrents=torrents.concat(item.torrentSourceUrls)
+		}
+	});
+	fansubData.dead.forEach(function(item){
+		if (item.selected){
+			websites.push(item.website.replace("https://www.",'').replace("http://www.",'').replace("https://",'').replace("http://",'').replace("www.",''))
+			torrents=torrents.concat(item.torrentSourceUrls)
 		}
 	});
 

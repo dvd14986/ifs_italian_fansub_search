@@ -10,20 +10,26 @@
             "telegramGroup":"",
             "discord":"",
             "otherLinks":[],
-            "torrentSourceUrls":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/Yokoshima"
+            ],
+            "rss":[],
             "selected":true
         },
         {
             "name":"Anime Legacy ~ Fansub",
-            "website":"https://t.me/animelegacyfansub",
+            "website":"",
             "facebook":"",
             "instagram":"",
             "twitter":"",
-            "telegramChannel":"",
+            "telegramChannel":"https://t.me/animelegacyfansub",
             "telegramGroup":"",
             "discord":"",
             "otherLinks":[],
-            "torrentSourceUrls":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/Anime-Legacy"
+            ],
+            "rss":[],
             "selected":true
         },
         {
@@ -36,7 +42,10 @@
             "telegramGroup":"",
             "discord":"",
             "otherLinks":[],
-            "torrentSourceUrls":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/Dhymos75"
+            ],
+            "rss":[],
             "selected":true
         },
         {
@@ -50,6 +59,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -62,7 +72,10 @@
             "telegramGroup":"",
             "discord":"",
             "otherLinks":[],
-            "torrentSourceUrls":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/BestFansubEver"
+            ],
+            "rss":[],
             "selected":true
         },
         {
@@ -75,20 +88,10 @@
             "telegramGroup":"",
             "discord":"",
             "otherLinks":[],
-            "torrentSourceUrls":[],
-            "selected":true
-        },
-        {
-            "name":"BM Zone (si occupa del recupero delle release dei gruppi chiusi)",
-            "website":"http://bmzone.forumfree.it/",
-            "facebook":"",
-            "instagram":"",
-            "twitter":"",
-            "telegramChannel":"",
-            "telegramGroup":"",
-            "discord":"",
-            "otherLinks":[],
-            "torrentSourceUrls":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/kashim"
+            ],
+            "rss":[],
             "selected":true
         },
         {
@@ -101,7 +104,10 @@
             "telegramGroup":"",
             "discord":"",
             "otherLinks":[],
-            "torrentSourceUrls":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/BBF"
+            ],
+            "rss":[],
             "selected":true
         },
         {
@@ -114,7 +120,10 @@
             "telegramGroup":"",
             "discord":"",
             "otherLinks":[],
-            "torrentSourceUrls":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/WingsOfBahamut"
+            ],
+            "rss":[],
             "selected":true
         },
         {
@@ -127,20 +136,10 @@
             "telegramGroup":"",
             "discord":"",
             "otherLinks":[],
-            "torrentSourceUrls":[],
-            "selected":true
-        },
-        {
-            "name":"CTH TRANSLATIONS FANSUB",
-            "website":"https://t.me/cthtranslations",
-            "facebook":"",
-            "instagram":"",
-            "twitter":"",
-            "telegramChannel":"",
-            "telegramGroup":"",
-            "discord":"",
-            "otherLinks":[],
-            "torrentSourceUrls":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/Chokoreto"
+            ],
+            "rss":[],
             "selected":true
         },
         {
@@ -154,6 +153,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -166,7 +166,10 @@
             "telegramGroup":"",
             "discord":"",
             "otherLinks":[],
-            "torrentSourceUrls":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/DCFSubs"
+            ],
+            "rss":[],
             "selected":true
         },
         {
@@ -180,6 +183,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -192,7 +196,10 @@
             "telegramGroup":"",
             "discord":"",
             "otherLinks":[],
-            "torrentSourceUrls":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/DemoneCeleste"
+            ],
+            "rss":[],
             "selected":true
         },
         {
@@ -205,7 +212,10 @@
             "telegramGroup":"",
             "discord":"",
             "otherLinks":[],
-            "torrentSourceUrls":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/Foxy-Subs"
+            ],
+            "rss":[],
             "selected":true
         },
         {
@@ -219,6 +229,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -231,7 +242,10 @@
             "telegramGroup":"",
             "discord":"",
             "otherLinks":[],
-            "torrentSourceUrls":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/GattoNeroFansub"
+            ],
+            "rss":[],
             "selected":true
         },
         {
@@ -244,20 +258,24 @@
             "telegramGroup":"",
             "discord":"",
             "otherLinks":[],
-            "torrentSourceUrls":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/Hanasaku"
+            ],
+            "rss":[],
             "selected":true
         },
         {
             "name":"Imperfect Fansub",
-            "website":"https://t.me/imperfectfansubita/",
+            "website":"",
             "facebook":"",
             "instagram":"",
             "twitter":"",
-            "telegramChannel":"",
+            "telegramChannel":"https://t.me/imperfectfansubita/",
             "telegramGroup":"",
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -270,7 +288,10 @@
             "telegramGroup":"",
             "discord":"",
             "otherLinks":[],
-            "torrentSourceUrls":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/IDIF"
+            ],
+            "rss":[],
             "selected":true
         },
         {
@@ -283,7 +304,10 @@
             "telegramGroup":"",
             "discord":"",
             "otherLinks":[],
-            "torrentSourceUrls":[],
+            "torrentSourceUrls":[
+                "https://anidex.info/user/8838"
+            ],
+            "rss":[],
             "selected":true
         },
         {
@@ -296,7 +320,26 @@
             "telegramGroup":"",
             "discord":"",
             "otherLinks":[],
-            "torrentSourceUrls":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/Videonello_S10"
+            ],
+            "rss":[],
+            "selected":true
+        },
+        {
+            "name":"[K.F.S] Kazuto Fansub Ita",
+            "website":"",
+            "facebook":"",
+            "instagram":"",
+            "twitter":"",
+            "telegramChannel":"https://t.me/KazutoFanSub",
+            "telegramGroup":"",
+            "discord":"",
+            "otherLinks":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/KonaStar"
+            ],
+            "rss":[],
             "selected":true
         },
         {
@@ -305,11 +348,17 @@
             "facebook":"",
             "instagram":"",
             "twitter":"",
-            "telegramChannel":"",
+            "telegramChannel":"https://t.me/KW_fansub",
             "telegramGroup":"",
-            "discord":"",
+            "discord":"https://discord.gg/wcyfhaR",
             "otherLinks":[],
-            "torrentSourceUrls":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/KonaStar"
+            ],
+            "rss":[
+                "https://kwfansub.weebly.com/2/feed",
+                "https://nyaa.si/?page=rss&u=KonaStar"
+            ],
             "selected":true
         },
         {
@@ -322,13 +371,16 @@
             "telegramGroup":"",
             "discord":"",
             "otherLinks":[],
-            "torrentSourceUrls":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/KrosisFansub"
+            ],
+            "rss":[],
             "selected":true
         },
         {
             "name":"Leaf Fansub",
             "website":"http://leaf.lacumpa.biz/",
-            "facebook":"",
+            "facebook":"https://www.facebook.com/LeafFansub",
             "instagram":"",
             "twitter":"",
             "telegramChannel":"",
@@ -336,6 +388,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -349,6 +402,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -361,20 +415,41 @@
             "telegramGroup":"",
             "discord":"",
             "otherLinks":[],
-            "torrentSourceUrls":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/Rinkana"
+            ],
+            "rss":[],
             "selected":true
         },
         {
             "name":"Lybris Fansub",
             "website":"https://lybrisfansub.wordpress.com/",
             "facebook":"",
-            "instagram":"",
+            "instagram":"https://www.instagram.com/lybris96/",
             "twitter":"",
             "telegramChannel":"",
             "telegramGroup":"",
             "discord":"",
+            "otherLinks":[
+                "https://www.youtube.com/channel/UCi_jNHMO1p4mjBSMNQOXiAw",
+                "https://www.wattpad.com/user/Lybris"
+            ],
+            "torrentSourceUrls":[],
+            "rss":[],
+            "selected":true
+        },
+        {
+            "name":"Majotachi no Sub",
+            "website":"https://majotachinosub.com/",
+            "facebook":"",
+            "instagram":"https://www.instagram.com/majotachi_no_sub/",
+            "twitter":"",
+            "telegramChannel":"https://t.me/majotachinosub",
+            "telegramGroup":"https://t.me/gruppomajotachinosub",
+            "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -383,30 +458,38 @@
             "facebook":"",
             "instagram":"",
             "twitter":"",
-            "telegramChannel":"",
+            "telegramChannel":"https://t.me/NAFS_tm",
             "telegramGroup":"",
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[
+                "https://nafsub.weebly.com/1/feed"
+            ],
             "selected":true
         },
         {
             "name":"NappySubs",
-            "website":"https://nappysub.wordpress.com/",
+            "website":"https://nappysubs.moe",
             "facebook":"",
             "instagram":"",
             "twitter":"",
             "telegramChannel":"",
             "telegramGroup":"",
             "discord":"",
-            "otherLinks":[],
-            "torrentSourceUrls":[],
+            "otherLinks":[
+                "https://nappysub.wordpress.com/"
+            ],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/Zahj"
+            ],
+            "rss":[],
             "selected":true
         },
         {
             "name":"Norowa-sensei",
             "website":"https://maledizionedellaluna.wordpress.com/",
-            "facebook":"",
+            "facebook":"https://www.facebook.com/tiffany.lilla.1",
             "instagram":"",
             "twitter":"",
             "telegramChannel":"",
@@ -414,110 +497,155 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
             "name":"Omnivium",
             "website":"https://omniviumfansub.github.io/",
-            "facebook":"",
+            "facebook":"https://www.facebook.com/OmniviumFansub",
             "instagram":"",
             "twitter":"",
             "telegramChannel":"",
             "telegramGroup":"",
             "discord":"",
             "otherLinks":[],
-            "torrentSourceUrls":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/Omnivium"
+            ],
+            "rss":[
+                "https://nyaa.si/?page=rss&u=Omnivium"
+            ],
             "selected":true
         },
         {
             "name":"Otaku's Fansub",
-            "website":"https://t.me/OtakusFansub21",
+            "website":"",
             "facebook":"",
-            "instagram":"",
+            "instagram":"https://instagram.com/anime_otaku_consigli?igshid=YmMyMTA2M2Y=",
             "twitter":"",
-            "telegramChannel":"",
+            "telegramChannel":"https://t.me/OtakusFansub21",
             "telegramGroup":"",
             "discord":"",
-            "otherLinks":[],
+            "otherLinks":[
+                "https://t.me/Collect_yours_waifus_bot",
+                "https://t.me/CollectComms"
+            ],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
             "name":"Owari Subs",
             "website":"http://www.owarisubs.lacumpa.biz/",
-            "facebook":"",
+            "facebook":"https://www.facebook.com/owarisubs",
             "instagram":"",
-            "twitter":"",
-            "telegramChannel":"",
+            "twitter":"https://twitter.com/OwariSubs",
+            "telegramChannel":"https://t.me/OwariSubs",
             "telegramGroup":"",
-            "discord":"",
+            "discord":"https://discord.gg/6tM2FPQ",
             "otherLinks":[],
-            "torrentSourceUrls":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/Owari"
+            ],
+            "rss":[
+                "https://owarisubs.lacumpa.biz/feed/",
+                "https://owarisubs.lacumpa.biz/comments/feed/",
+                "https://nyaa.si/?page=rss&u=Owari"
+            ],
             "selected":true
         },
         {
             "name":"Pantaloni Rossi",
             "website":"http://pantalonirossi.lacumpa.biz/",
-            "facebook":"",
+            "facebook":"https://www.facebook.com/pantalonirossifansub",
             "instagram":"",
             "twitter":"",
             "telegramChannel":"",
             "telegramGroup":"",
             "discord":"",
             "otherLinks":[],
-            "torrentSourceUrls":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/Owari"
+            ],
+            "rss":[
+                "https://nyaa.si/?page=rss&u=Owari"
+            ],
             "selected":true
         },
         {
             "name":"Rakuen Subs",
             "website":"http://www.rakuen-subs.net/",
-            "facebook":"",
+            "facebook":"https://www.facebook.com/rakuensubs",
             "instagram":"",
             "twitter":"",
             "telegramChannel":"",
             "telegramGroup":"",
             "discord":"",
             "otherLinks":[],
-            "torrentSourceUrls":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/Preacer"
+            ],
+            "rss":[
+                "https://nyaa.si/?page=rss&u=Preacer"
+            ],
             "selected":true
         },
         {
             "name":"RaMa Oriental Fansub",
             "website":"https://ramaorientalfansub.forumfree.it/",
-            "facebook":"",
-            "instagram":"",
+            "facebook":"http://www.facebook.com/ROFansub",
+            "instagram":"http://www.instagram.com/ramaorientalfansub/",
             "twitter":"",
-            "telegramChannel":"",
-            "telegramGroup":"",
+            "telegramChannel":"https://t.me/ramaorientalfansub12",
+            "telegramGroup":"https://t.me/ramaorientaldramasubs",
             "discord":"",
-            "otherLinks":[],
+            "otherLinks":[
+                "https://t.me/ramaoriental",
+                "https://t.me/ramadramaconclusi",
+                "https://t.me/ramadramaincorso",
+                "https://t.me/ramadramafuturi",
+                "https://t.me/ROFAnime_Manga",
+                "http://www.facebook.com/groups/556086895437726",
+                "https://vm.tiktok.com/ZM8DgupLC/",
+                "https://youtube.com/channel/UCZHk5a4sVmUFUaSEkGsDaCQ",
+            ],
             "torrentSourceUrls":[],
+            "rss":[
+                "https://script.forumfree.it:5000/?customShout=newsbox&forum=ramaorientalfansub.forumfree.it&rss=ramaorientalfansub.forumfree.it.xml",
+                "https://ramaorientalfansub.forumfree.it/rss.php?c=1062104",
+                "https://ramaorientalfansub.forumfree.it/rss.php?c=1062104&src=tag"
+            ],
             "selected":true
         },
         {
             "name":"Re:Sub",
-            "website":"https://refansubita.wordpress.com/",
+            "website":"https://refansub550269117.wordpress.com/",
             "facebook":"",
-            "instagram":"",
+            "instagram":"https://www.instagram.com/resub_ita/",
             "twitter":"",
-            "telegramChannel":"",
+            "telegramChannel":"https://t.me/resub_ita",
             "telegramGroup":"",
             "discord":"",
-            "otherLinks":[],
+            "otherLinks":[
+                "https://refansubita.wordpress.com/"
+            ],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
             "name":"Rorro Ranobe",
-            "website":"https://t.me/rorroranobe/",
+            "website":"https://rorroranobe.wordpress.com/",
             "facebook":"",
             "instagram":"",
             "twitter":"",
-            "telegramChannel":"",
-            "telegramGroup":"",
+            "telegramChannel":"https://t.me/rorroranobe",
+            "telegramGroup":"https://t.me/animerorro",
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -531,6 +659,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -539,11 +668,15 @@
             "facebook":"",
             "instagram":"",
             "twitter":"",
-            "telegramChannel":"",
-            "telegramGroup":"",
-            "discord":"",
+            "telegramChannel":"https://t.me/sadamenofansub",
+            "telegramGroup":"https://t.me/AllAnimeGroup",
+            "discord":"https://discord.gg/RWrpjPg",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[
+                "https://sadamenofansub.blogspot.com/feeds/posts/default",
+                "https://sadamenofansub.blogspot.com/feeds/comments/default"
+            ],
             "selected":true
         },
         {
@@ -557,6 +690,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -570,6 +704,21 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
+            "selected":true
+        },
+        {
+            "name":"SpeedUp Fan Sub",
+            "website":"",
+            "facebook":"",
+            "instagram":"",
+            "twitter":"",
+            "telegramChannel":"https://t.me/SpeedUpFanSub",
+            "telegramGroup":"",
+            "discord":"",
+            "otherLinks":[],
+            "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -583,6 +732,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -596,6 +746,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -609,6 +760,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -622,6 +774,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -635,6 +788,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -648,6 +802,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -661,6 +816,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -674,6 +830,24 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
+            "selected":true
+        },
+        {
+            "name":"Winds Of Subtitle - WOS",
+            "website":"http://windsof.net/",
+            "facebook":"",
+            "instagram":"",
+            "twitter":"",
+            "telegramChannel":"https://t.me/WindsOfSubtitle",
+            "telegramGroup":"https://t.me/+S8LbMDJnlhmOvGsb",
+            "discord":"",
+            "otherLinks":[
+                "https://t.me/WindsOfMusic",
+                "https://t.me/WindsOfManga"
+            ],
+            "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -687,6 +861,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -700,6 +875,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -713,8 +889,59 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         }
+    ],
+"misc":
+    [
+        {
+            "name":"BM Zone (si occupa del recupero delle release dei gruppi chiusi)",
+            "website":"http://bmzone.forumfree.it/",
+            "facebook":"",
+            "instagram":"",
+            "twitter":"",
+            "telegramChannel":"",
+            "telegramGroup":"",
+            "discord":"",
+            "otherLinks":[],
+            "torrentSourceUrls":[],
+            "rss":[],
+            "selected":true
+        },
+        {
+            "name":"Ghegghe",
+            "website":"",
+            "facebook":"",
+            "instagram":"",
+            "twitter":"",
+            "telegramChannel":"",
+            "telegramGroup":"",
+            "discord":"",
+            "otherLinks":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/Ghegghe"
+            ],
+            "rss":[],
+            "selected":true
+        },
+        {
+            "name":"JOKay_",
+            "website":"",
+            "facebook":"",
+            "instagram":"",
+            "twitter":"",
+            "telegramChannel":"",
+            "telegramGroup":"",
+            "discord":"",
+            "otherLinks":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/JOKay_"
+            ],
+            "rss":[],
+            "selected":true
+        }
+        
     ],
 "dead":
     [
@@ -729,6 +956,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -742,6 +970,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -755,6 +984,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -768,6 +998,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -781,6 +1012,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -794,6 +1026,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -807,6 +1040,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -820,6 +1054,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -833,6 +1068,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -846,6 +1082,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
             },
         {
@@ -859,6 +1096,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -872,6 +1110,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -885,6 +1124,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -898,6 +1138,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -911,6 +1152,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -924,6 +1166,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         
@@ -938,6 +1181,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -951,6 +1195,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -964,6 +1209,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -977,6 +1223,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -990,6 +1237,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1003,6 +1251,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1016,6 +1265,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1029,6 +1279,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1042,6 +1293,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1055,6 +1307,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1068,6 +1321,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1081,6 +1335,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1094,6 +1349,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1107,6 +1363,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1120,6 +1377,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1133,6 +1391,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1146,6 +1405,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1159,6 +1419,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1172,6 +1433,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1185,6 +1447,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1210,6 +1473,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1223,6 +1487,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1236,6 +1501,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1249,6 +1515,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1262,6 +1529,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1275,6 +1543,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1288,6 +1557,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1301,6 +1571,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1314,6 +1585,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1327,6 +1599,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1340,6 +1613,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1353,6 +1627,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1366,6 +1641,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1379,6 +1655,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1392,6 +1669,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1405,6 +1683,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1418,6 +1697,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1431,6 +1711,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1444,6 +1725,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1457,6 +1739,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
             },
         {
@@ -1470,6 +1753,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1483,6 +1767,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1496,6 +1781,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1509,6 +1795,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1522,6 +1809,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1535,6 +1823,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1548,6 +1837,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1561,6 +1851,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1574,6 +1865,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1587,6 +1879,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1600,6 +1893,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1613,6 +1907,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1626,6 +1921,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1639,6 +1935,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1652,6 +1949,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1665,6 +1963,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1678,6 +1977,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1691,6 +1991,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1704,6 +2005,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1717,6 +2019,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1730,6 +2033,21 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
+            "selected":true
+        },
+        {
+            "name":"CTH TRANSLATIONS FANSUB",
+            "website":"",
+            "facebook":"",
+            "instagram":"",
+            "twitter":"",
+            "telegramChannel":"https://t.me/cthtranslations",
+            "telegramGroup":"",
+            "discord":"",
+            "otherLinks":[],
+            "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1743,6 +2061,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1756,6 +2075,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1769,6 +2089,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1782,6 +2103,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1795,6 +2117,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1808,6 +2131,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1821,6 +2145,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1834,6 +2159,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1847,6 +2173,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1860,6 +2187,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1873,6 +2201,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1886,6 +2215,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1899,6 +2229,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1912,6 +2243,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1925,6 +2257,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },        {
             "name":"dnotomista (dnotomistaDOTforumattivoDOTcom)",
@@ -1937,6 +2270,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1950,6 +2284,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1963,6 +2298,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1976,6 +2312,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -1989,6 +2326,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2002,6 +2340,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2015,6 +2354,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2028,6 +2368,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2041,6 +2382,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2054,6 +2396,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2067,6 +2410,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2080,6 +2424,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2093,6 +2438,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2106,6 +2452,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2119,6 +2466,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2132,6 +2480,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2145,6 +2494,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2158,6 +2508,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2171,6 +2522,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2184,6 +2536,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2197,6 +2550,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2210,6 +2564,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2223,6 +2578,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2236,6 +2592,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2249,6 +2606,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2262,6 +2620,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2275,6 +2634,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2288,6 +2648,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2301,6 +2662,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2314,6 +2676,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2327,6 +2690,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2340,6 +2704,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2353,6 +2718,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2366,6 +2732,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2379,6 +2746,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2392,6 +2760,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2405,6 +2774,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2418,6 +2788,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2431,6 +2802,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2444,6 +2816,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2457,6 +2830,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2470,6 +2844,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2483,6 +2858,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2496,6 +2872,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2509,6 +2886,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2522,6 +2900,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2535,6 +2914,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2548,6 +2928,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2561,6 +2942,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2574,6 +2956,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2587,6 +2970,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2600,6 +2984,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2613,6 +2998,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2626,6 +3012,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2639,6 +3026,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2652,6 +3040,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2665,6 +3054,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2678,6 +3068,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2691,6 +3082,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2704,6 +3096,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2717,6 +3110,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2730,6 +3124,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2743,6 +3138,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2756,6 +3152,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2769,6 +3166,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2782,6 +3180,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2795,6 +3194,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2808,6 +3208,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2821,6 +3222,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2834,6 +3236,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2847,6 +3250,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2860,6 +3264,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2873,6 +3278,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2886,6 +3292,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2899,6 +3306,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2912,6 +3320,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2925,6 +3334,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2938,6 +3348,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2951,6 +3362,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2964,6 +3376,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2977,6 +3390,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -2990,6 +3404,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3003,6 +3418,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3016,6 +3432,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3029,6 +3446,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3042,6 +3460,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3055,6 +3474,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3068,6 +3488,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3081,6 +3502,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3094,6 +3516,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3107,6 +3530,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3120,6 +3544,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3133,6 +3558,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3146,6 +3572,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3159,6 +3586,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3172,6 +3600,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3185,6 +3614,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3198,6 +3628,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3211,6 +3642,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3224,6 +3656,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3237,6 +3670,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3250,6 +3684,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3263,6 +3698,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3276,6 +3712,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3289,6 +3726,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3302,6 +3740,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3315,6 +3754,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3328,6 +3768,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3341,6 +3782,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3354,6 +3796,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3367,6 +3810,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3380,6 +3824,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3393,6 +3838,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3406,6 +3852,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3419,6 +3866,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3432,6 +3880,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3445,6 +3894,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3458,6 +3908,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3471,6 +3922,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3484,6 +3936,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3497,6 +3950,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3510,6 +3964,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3523,6 +3978,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3536,6 +3992,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3549,6 +4006,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3562,6 +4020,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3575,6 +4034,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3588,6 +4048,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3601,6 +4062,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3614,6 +4076,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3627,6 +4090,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3640,6 +4104,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3653,6 +4118,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3666,6 +4132,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3679,6 +4146,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3692,6 +4160,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3705,6 +4174,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3718,6 +4188,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3731,6 +4202,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3744,6 +4216,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3757,6 +4230,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3770,6 +4244,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3783,6 +4258,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3796,6 +4272,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3809,6 +4286,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3822,6 +4300,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3835,6 +4314,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3848,6 +4328,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3861,6 +4342,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3874,6 +4356,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3887,6 +4370,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3900,6 +4384,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3913,6 +4398,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3926,6 +4412,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
 
@@ -3940,6 +4427,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3953,6 +4441,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3966,6 +4455,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3979,6 +4469,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -3992,6 +4483,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4005,6 +4497,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4018,6 +4511,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4031,6 +4525,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4044,6 +4539,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4057,6 +4553,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4070,6 +4567,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4083,6 +4581,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4096,6 +4595,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4109,6 +4609,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4122,6 +4623,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4135,6 +4637,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4148,6 +4651,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4161,6 +4665,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4174,6 +4679,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4187,6 +4693,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4200,6 +4707,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4213,6 +4721,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4226,11 +4735,12 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
             "name":"Shinsei-Kai",
-            "website":"https://nyaa.si/user/SSK",
+            "website":"http://www.shinsei-kai.biz/",
             "facebook":"",
             "instagram":"",
             "twitter":"",
@@ -4238,7 +4748,10 @@
             "telegramGroup":"",
             "discord":"",
             "otherLinks":[],
-            "torrentSourceUrls":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/SSK"
+            ],
+            "rss":[],
             "selected":true
         },
         {
@@ -4252,6 +4765,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4265,6 +4779,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4278,6 +4793,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4291,6 +4807,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4304,6 +4821,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4317,6 +4835,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4330,6 +4849,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4343,6 +4863,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4356,6 +4877,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4369,6 +4891,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4382,6 +4905,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4395,6 +4919,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4408,6 +4933,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4421,6 +4947,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4434,6 +4961,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4447,6 +4975,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4460,6 +4989,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4473,6 +5003,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4486,6 +5017,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4499,6 +5031,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4512,6 +5045,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4525,6 +5059,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4538,6 +5073,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4551,6 +5087,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4564,6 +5101,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4577,6 +5115,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4590,6 +5129,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4603,6 +5143,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4616,6 +5157,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4629,6 +5171,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4642,6 +5185,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4655,6 +5199,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4668,6 +5213,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4681,6 +5227,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4694,6 +5241,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4707,6 +5255,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4720,6 +5269,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4733,6 +5283,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4746,6 +5297,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4759,6 +5311,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4772,6 +5325,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4785,6 +5339,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4798,6 +5353,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4811,6 +5367,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4824,6 +5381,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4837,6 +5395,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4850,6 +5409,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4863,6 +5423,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4876,6 +5437,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4889,6 +5451,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4902,6 +5465,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4915,6 +5479,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4928,6 +5493,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4941,6 +5507,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4954,6 +5521,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4967,6 +5535,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4980,6 +5549,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -4993,6 +5563,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5006,6 +5577,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5019,6 +5591,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5032,6 +5605,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5045,6 +5619,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5058,6 +5633,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5071,6 +5647,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5084,6 +5661,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5097,6 +5675,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5110,6 +5689,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5123,6 +5703,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5136,6 +5717,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5149,6 +5731,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5162,6 +5745,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5175,6 +5759,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5188,6 +5773,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5201,6 +5787,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5214,6 +5801,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5227,6 +5815,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5240,6 +5829,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5253,6 +5843,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5266,6 +5857,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5279,6 +5871,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5292,6 +5885,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5305,6 +5899,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5318,6 +5913,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5331,6 +5927,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5344,6 +5941,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5357,6 +5955,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5370,6 +5969,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5383,6 +5983,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5396,6 +5997,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5409,6 +6011,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5422,6 +6025,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5435,6 +6039,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5448,6 +6053,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5461,6 +6067,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5474,6 +6081,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5487,6 +6095,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5500,6 +6109,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5513,6 +6123,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5526,6 +6137,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5539,6 +6151,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5552,6 +6165,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
 
@@ -5566,6 +6180,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
 
@@ -5580,6 +6195,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5593,6 +6209,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5606,6 +6223,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5619,6 +6237,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5632,6 +6251,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5645,6 +6265,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5658,6 +6279,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5671,6 +6293,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         },
         {
@@ -5684,6 +6307,7 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
             "selected":true
         }
     ]
