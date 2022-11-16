@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="assets/css/css.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+
+    <link rel="stylesheet" href="assets/css/style_002.css">
+    <title>IFS - Italian Fansub Search</title>
+
+<body>
+    <div class="divSearch">
+        
+        <form clase="searchForm" onsubmit="event.preventDefault();" role="search">
+            <!-- <center>
+                <label class="searchLabel" for="search">Insert Anime name and search</label>
+            </center> -->
+            <input class="searchInput" id="search" type="search" placeholder="Search for fansubbed anime..." autofocus required />
+            <div class="divButton">
+                <button class="button-43" role="button" type="submit">Only Web</button>
+                <button class="button-43" role="button" type="submit">Only Torrent</button>
+                <button class="button-43" role="button" type="submit">Search All</button>
+            </div>
+        </form>
+    </div>
+    <div class="content">
+        <div class="row" style="justify-content: center;margin:0">
+
+            <section class="section_global">
+                <h2 class="mb-5">Attivi</h2>
+                <div class="table-responsive custom-table-responsive">
+                    <table class="table custom-table" id="alive">
+                        <thead>
+                            <tr>
+                                <th scope="col">
+                                    <label class="control control--checkbox">
+                                        <input type="checkbox" class="js-check-all-alive">
+                                        <div class="control__indicator"></div>
+                                    </label>
+                                </th>
+                                <th scope="col">Fansub</th>
+                                <th scope="col">Website</th>
+                                <th scope="col">Social</th>
+                                <th scope="col">Other</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+
+
+            <section class="section_global">
+                <h2 class="mb-5">Inattivi</h2>
+                <div class="table-responsive custom-table-responsive">
+                    <table class="table custom-table" id="dead">
+                        <thead>
+                            <tr>
+                                <th scope="col">
+                                    <label class="control control--checkbox">
+                                        <input type="checkbox" class="js-check-all-dead">
+                                        <div class="control__indicator"></div>
+                                    </label>
+                                </th>
+                                <th scope="col">Fansub</th>
+                                <th scope="col">Website</th>
+                                <th scope="col">Social</th>
+                                <th scope="col">Other</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+            
+        </div>
+    </div>
+    <script src="assets/js/jquery-3.3.1.min.js"></script>
+    <script src="assets/js/popper.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
