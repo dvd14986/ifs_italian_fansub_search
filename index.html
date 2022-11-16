@@ -15,18 +15,18 @@
     <link rel="stylesheet" href="assets/css/style_002.css">
     <title>IFS - Italian Fansub Search</title>
 
-<body>
+<body onload="loadData()">
     <div class="divSearch">
         
-        <form clase="searchForm" onsubmit="event.preventDefault();" role="search">
+        <form clase="searchForm" onkeydown="return event.key != 'Enter';" onsubmit="event.preventDefault();" role="search">
             <!-- <center>
                 <label class="searchLabel" for="search">Insert Anime name and search</label>
             </center> -->
             <input class="searchInput" id="search" type="search" placeholder="Search for fansubbed anime..." autofocus required />
             <div class="divButton">
-                <button class="button-43" role="button" type="submit">Only Web</button>
-                <button class="button-43" role="button" type="submit">Only Torrent</button>
-                <button class="button-43" role="button" type="submit">Search All</button>
+                <button class="button-43" role="button" onclick="buildSearchLink('websites')">Only Web</button>
+                <button class="button-43" role="button" onclick="buildSearchLink('torrents')">Only Torrent</button>
+                <button class="button-43" role="button" onclick="buildSearchLink('all')">Search All</button>
             </div>
         </form>
     </div>

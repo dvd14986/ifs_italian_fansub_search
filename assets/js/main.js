@@ -24,16 +24,22 @@ async function loadData(){
 
 
 function bindHeadCheckbox(tableId){
-	$(".js-check-all-alive").on("click", function () {
+	$(".js-check-all-"+tableId).on("click", function () {
 	if ($(this).prop("checked")) {
 		$('#'+tableId+' th input[type="checkbox"]').each(function () {
 		$(this).prop("checked", true);
 		$(this).closest("tr").addClass("active");
 		});
+		fansubData[tableId].forEach(function(item){
+			item.selected = true;
+		});
 	} else {
 		$('#'+tableId+' th input[type="checkbox"]').each(function () {
-		$(this).prop("checked", false);
-		$(this).closest("tr").removeClass("active");
+			$(this).prop("checked", false);
+			$(this).closest("tr").removeClass("active");
+		});
+		fansubData[tableId].forEach(function(item){
+			item.selected = false;
 		});
 	}
 	});
@@ -141,3 +147,32 @@ function buildSocial(){
 }
 
 
+
+function buildSearchLink(type){
+	let searchLink = "https://www.google.com/search?q=";
+	searchLink += document.getElementById("search").value;
+	searchLink +=" site:"
+	let websites = [];
+	let torrents = [];
+	fansubData.alive.forEach(function(item){
+		if (item.selected){
+			websites.push(item.website.replace("https://www.",'').replace("http://www.",'').replace("https://",'').replace("http://",'').replace("www.",''))
+			torrents.concat(item.torrentSourceUrls)
+		}
+	});
+
+	switch (type){
+		case "websites":
+			searchLink += websites.join(" OR site:");
+			break;
+		case "torrents":
+			searchLink += torrents.join(" OR site:");
+			break;
+		case "all":
+			searchLink += websites.concat(torrents).join(" OR site:");
+		default:
+	}
+	console.log(searchLink);
+	window.open(searchLink, '_blank').focus();
+
+}
