@@ -1,4 +1,5 @@
 {
+    "last_update": "2022-11-17",
     "alive" : [
         {
             "name":"Aegi Stranding",
@@ -13,23 +14,29 @@
             "torrentSourceUrls":[
                 "https://nyaa.si/user/Yokoshima"
             ],
-            "rss":[],
+            "rss":[
+                "https://nyaa.si/?page=rss&u=Yokoshima"
+            ],
             "selected":true
         },
         {
             "name":"Anime Legacy ~ Fansub",
-            "website":"",
+            "website":"https://t.me/s/animelegacyfansub",
             "facebook":"",
             "instagram":"",
             "twitter":"",
             "telegramChannel":"https://t.me/animelegacyfansub",
-            "telegramGroup":"",
+            "telegramGroup":"https://t.me/animelegacygroupit",
             "discord":"",
-            "otherLinks":[],
+            "otherLinks":[
+                "https://t.me/animelegacy"
+            ],
             "torrentSourceUrls":[
                 "https://nyaa.si/user/Anime-Legacy"
             ],
-            "rss":[],
+            "rss":[
+                "https://nyaa.si/?page=rss&u=Anime-Legacy"
+            ],
             "selected":true
         },
         {
@@ -38,26 +45,32 @@
             "facebook":"",
             "instagram":"",
             "twitter":"",
-            "telegramChannel":"",
+            "telegramChannel":"https://t.me/AnimeShinigamiFansub",
             "telegramGroup":"",
             "discord":"",
-            "otherLinks":[],
+            "otherLinks":[
+                "https://www.dailymotion.com/AnimeShinigami"
+            ],
             "torrentSourceUrls":[
                 "https://nyaa.si/user/Dhymos75"
             ],
-            "rss":[],
+            "rss":[
+                "https://nyaa.si/?page=rss&u=Dhymos75"
+            ],
             "selected":true
         },
         {
             "name":"AsianWorld",
             "website":"http://www.asianworld.it/",
-            "facebook":"",
+            "facebook":"http://www.facebook.com/pages/AsianWorldit/126119356291",
             "instagram":"",
-            "twitter":"",
+            "twitter":"http://www.twitter.com/asianworld_it",
             "telegramChannel":"",
             "telegramGroup":"",
             "discord":"",
-            "otherLinks":[],
+            "otherLinks":[
+                "http://www.youtube.com/user/AsianWorldTube"
+            ],
             "torrentSourceUrls":[],
             "rss":[],
             "selected":true
@@ -65,7 +78,7 @@
         {
             "name":"Best Fansub Ever",
             "website":"http://bestfansubever.forumfree.it/",
-            "facebook":"",
+            "facebook":"https://www.facebook.com/BestFansubEver?fref=ts",
             "instagram":"",
             "twitter":"",
             "telegramChannel":"",
@@ -75,47 +88,59 @@
             "torrentSourceUrls":[
                 "https://nyaa.si/user/BestFansubEver"
             ],
-            "rss":[],
+            "rss":[
+                "https://bestfansubever.forumfree.it/rss.php?c=874025",
+                "https://bestfansubever.forumfree.it/rss.php?c=874025&src=tag",
+                "https://nyaa.si/?page=rss&u=BestFansubEver"
+            ],
             "selected":true
         },
         {
             "name":"BinKanTeam Fansub",
             "website":"http://narutoninja.forumfree.it/",
-            "facebook":"",
+            "facebook":"https://www.facebook.com/Binkanteam/",
             "instagram":"",
             "twitter":"",
             "telegramChannel":"",
             "telegramGroup":"",
-            "discord":"",
-            "otherLinks":[],
+            "discord":"https://discord.gg/nMeBCmn",
+            "otherLinks":[
+                "skype:?chat&blob=h89enwvOgSSjAKgc-Nay1R1RBh3acetczIqdhWt8I7eJoZpm0i7mhLAIIzYkFrXD-87UMr_v_CQRZZDZ"
+            ],
             "torrentSourceUrls":[
                 "https://nyaa.si/user/kashim"
             ],
-            "rss":[],
+            "rss":[
+                "https://nyaa.si/?page=rss&u=kashim"
+            ],
             "selected":true
         },
         {
             "name":"Bowling Ball Fansubs",
             "website":"http://www.bowlingballfansubs.it/",
-            "facebook":"",
+            "facebook":"http://www.facebook.com/bbfwip",
             "instagram":"",
             "twitter":"",
-            "telegramChannel":"",
-            "telegramGroup":"",
-            "discord":"",
-            "otherLinks":[],
+            "telegramChannel":"https://t.me/bbfansubs",
+            "telegramGroup":"https://t.me/bbfansubschat",
+            "discord":"https://discord.gg/QXAMQ7x",
+            "otherLinks":[
+                "http://www.vazcomics.org/bbf/phpbb3"
+            ],
             "torrentSourceUrls":[
                 "https://nyaa.si/user/BBF"
             ],
-            "rss":[],
+            "rss":[
+                "https://nyaa.si/?page=rss&u=BBF"
+            ],
             "selected":true
         },
         {
             "name":"Chaotic World of Delusions!",
             "website":"https://cwod.openthesteinsgate.it",
-            "facebook":"",
+            "facebook":"https://fb.me/CWODfansub",
             "instagram":"",
-            "twitter":"",
+            "twitter":"https://twitter.com/cwodfansub",
             "telegramChannel":"",
             "telegramGroup":"",
             "discord":"",
@@ -123,15 +148,19 @@
             "torrentSourceUrls":[
                 "https://nyaa.si/user/WingsOfBahamut"
             ],
-            "rss":[],
+            "rss":[
+                "https://cwod.openthesteinsgate.it/feed/",
+                "https://cwod.openthesteinsgate.it/comments/feed/",
+                "https://nyaa.si/?page=rss&u=WingsOfBahamut"
+            ],
             "selected":true
         },
         {
             "name":"Chokoreto Fansub",
             "website":"http://chokoretofansub.altervista.org/",
-            "facebook":"",
+            "facebook":"https://www.facebook.com/chokoretofansub/",
             "instagram":"",
-            "twitter":"",
+            "twitter":"https://twitter.com/ChokoretoFansub",
             "telegramChannel":"",
             "telegramGroup":"",
             "discord":"",
@@ -139,13 +168,16 @@
             "torrentSourceUrls":[
                 "https://nyaa.si/user/Chokoreto"
             ],
-            "rss":[],
+            "rss":[
+                "https://nyaa.si/?page=rss&u=Chokoreto",
+                "https://chokoretofansub.altervista.org/feed/"
+            ],
             "selected":true
         },
         {
             "name":"Danger Zone Fansub",
             "website":"http://www.dangerzonefansub.it/",
-            "facebook":"",
+            "facebook":"https://www.facebook.com/dangerzonefansub",
             "instagram":"",
             "twitter":"",
             "telegramChannel":"",
@@ -153,37 +185,53 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
-            "rss":[],
+            "rss":[
+                "http://fetchrss.com/rss/6059d680ea2d0b04e1186d526059d79ca9a87b2a7e360462.xml"
+            ],
             "selected":true
         },
         {
             "name":"DCFS",
             "website":"https://dcfamilysubs.com/",
-            "facebook":"",
-            "instagram":"",
+            "facebook":"https://www.facebook.com/DcFamilySubs/",
+            "instagram":"https://www.instagram.com/detectiveconanfamilysubs/",
             "twitter":"",
-            "telegramChannel":"",
+            "telegramChannel":"https://t.me/dcfamilysubs",
             "telegramGroup":"",
-            "discord":"",
-            "otherLinks":[],
+            "discord":"https://discord.gg/PwbJAbt",
+            "otherLinks":[
+                "https://www.youtube.com/channel/UCukYN2Lyz5n_GDu9il9P9rw"
+            ],
             "torrentSourceUrls":[
                 "https://nyaa.si/user/DCFSubs"
             ],
-            "rss":[],
+            "rss":[
+                "https://dcfamilysubs.com/feed/",
+                "https://nyaa.si/?page=rss&u=DCFSubs"
+            ],
             "selected":true
         },
         {
             "name":"Demone Celeste Team",
             "website":"https://demoneceleste.forumfree.it/",
-            "facebook":"",
+            "facebook":"https://www.facebook.com/DemoneCelesteTeam",
             "instagram":"",
             "twitter":"",
-            "telegramChannel":"",
-            "telegramGroup":"",
+            "telegramChannel":"https://t.me/DCSTeam",
+            "telegramGroup":"https://t.me/demonecelestechat",
             "discord":"",
-            "otherLinks":[],
-            "torrentSourceUrls":[],
-            "rss":[],
+            "otherLinks":[
+                "https://t.me/MangaLink"
+            ],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/DemoneCeleste"
+            ],
+            "rss":[
+                "https://script.forumfree.it:5000/?customShout=&forum=demoneceleste.forumfree.it&rss=demoneceleste.forumfree.it.xml",
+                "https://demoneceleste.forumfree.it/rss.php?c=1028992",
+                "https://demoneceleste.forumfree.it/rss.php?c=1028992&src=tag",
+                "https://nyaa.si/?page=rss&u=DemoneCeleste"
+            ],
             "selected":true
         },
         {
@@ -194,18 +242,22 @@
             "twitter":"",
             "telegramChannel":"",
             "telegramGroup":"",
-            "discord":"",
+            "discord":"https://discordapp.com/invite/zJ33waB",
             "otherLinks":[],
             "torrentSourceUrls":[
-                "https://nyaa.si/user/DemoneCeleste"
+                "https://nyaa.si/user/Emblem-Subs"
             ],
-            "rss":[],
+            "rss":[
+                "https://www.emblem-subs.org/feed/",
+                "https://www.emblem-subs.org/comments/feed/",
+                "https://nyaa.si/?page=rss&u=Emblem-Subs"
+            ],
             "selected":true
         },
         {
             "name":"Foxy63",
             "website":"https://foxy63subs.wordpress.com/",
-            "facebook":"",
+            "facebook":"https://www.facebook.com/FoxySubs/",
             "instagram":"",
             "twitter":"",
             "telegramChannel":"",
@@ -215,21 +267,10 @@
             "torrentSourceUrls":[
                 "https://nyaa.si/user/Foxy-Subs"
             ],
-            "rss":[],
-            "selected":true
-        },
-        {
-            "name":"Funny and Fantasy Subs",
-            "website":"http://www.fefs.it/news",
-            "facebook":"",
-            "instagram":"",
-            "twitter":"",
-            "telegramChannel":"",
-            "telegramGroup":"",
-            "discord":"",
-            "otherLinks":[],
-            "torrentSourceUrls":[],
-            "rss":[],
+            "rss":[
+                "https://foxy63subs.wordpress.com/feed/",
+                "https://nyaa.si/?page=rss&u=Foxy-Subs"
+            ],
             "selected":true
         },
         {
@@ -240,18 +281,20 @@
             "twitter":"",
             "telegramChannel":"",
             "telegramGroup":"",
-            "discord":"",
+            "discord":"https://discord.gg/tjUEgzU",
             "otherLinks":[],
             "torrentSourceUrls":[
                 "https://nyaa.si/user/GattoNeroFansub"
             ],
-            "rss":[],
+            "rss":[
+                "https://nyaa.si/?page=rss&u=GattoNeroFansub"
+            ],
             "selected":true
         },
         {
             "name":"Hanasaku Subs",
             "website":"http://www.hanasaku-subs.com/",
-            "facebook":"",
+            "facebook":"https://www.facebook.com/hanasakusubs/",
             "instagram":"",
             "twitter":"",
             "telegramChannel":"",
@@ -261,18 +304,22 @@
             "torrentSourceUrls":[
                 "https://nyaa.si/user/Hanasaku"
             ],
-            "rss":[],
+            "rss":[
+                "https://hanasaku-subs.com/feed/",
+                "https://hanasaku-subs.com/comments/feed/",
+                "https://nyaa.si/?page=rss&u=Hanasaku"
+            ],
             "selected":true
         },
         {
             "name":"Imperfect Fansub",
             "website":"",
-            "facebook":"",
+            "facebook":"https://www.facebook.com/groups/ilparadisodeglianime/",
             "instagram":"",
             "twitter":"",
             "telegramChannel":"https://t.me/imperfectfansubita/",
             "telegramGroup":"",
-            "discord":"",
+            "discord":"https://discord.com/invite/jfZyvcVKvt",
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
@@ -281,49 +328,62 @@
         {
             "name":"Initial D Fansub",
             "website":"http://initialdfansub.forumcommunity.net/",
-            "facebook":"",
+            "facebook":"https://www.facebook.com/groups/idiffansub/",
             "instagram":"",
             "twitter":"",
             "telegramChannel":"",
             "telegramGroup":"",
             "discord":"",
-            "otherLinks":[],
+            "otherLinks":[
+                "https://idifmanga.altervista.org/tracker/index_tracker.php"
+            ],
             "torrentSourceUrls":[
                 "https://nyaa.si/user/IDIF"
             ],
-            "rss":[],
+            "rss":[
+                "https://initialdfansub.forumcommunity.net/rss.php?c=86044",
+                "https://initialdfansub.forumcommunity.net/rss.php?c=86044&src=tag",
+                "https://nyaa.si/?page=rss&u=IDIF"
+            ],
             "selected":true
         },
         {
             "name":"Italian Sentai Subranger",
             "website":"http://www.subranger.it/",
-            "facebook":"",
-            "instagram":"",
+            "facebook":"https://facebook.com/italiansentaisubranger",
+            "instagram":"https://instagram.com/subranger.it",
             "twitter":"",
             "telegramChannel":"",
             "telegramGroup":"",
             "discord":"",
-            "otherLinks":[],
+            "otherLinks":[
+                "https://www.subranger.it/supporter-patreon/"
+            ],
             "torrentSourceUrls":[
                 "https://anidex.info/user/8838"
             ],
-            "rss":[],
+            "rss":[
+                "https://subranger.it/feed",
+                "https://anidex.info/rss/user/8838"
+            ],
             "selected":true
         },
         {
             "name":"Jimaku-Subs",
             "website":"https://jimakusubs.netsons.org/",
-            "facebook":"",
+            "facebook":"https://www.facebook.com/jimakusubs/",
             "instagram":"",
             "twitter":"",
-            "telegramChannel":"",
-            "telegramGroup":"",
+            "telegramChannel":"https://t.me/jimakusubs",
+            "telegramGroup":"https://t.me/JimakuSub",
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[
                 "https://nyaa.si/user/Videonello_S10"
             ],
-            "rss":[],
+            "rss":[
+                "https://nyaa.si/?page=rss&u=Videonello_S10"
+            ],
             "selected":true
         },
         {
@@ -336,9 +396,7 @@
             "telegramGroup":"",
             "discord":"",
             "otherLinks":[],
-            "torrentSourceUrls":[
-                "https://nyaa.si/user/KonaStar"
-            ],
+            "torrentSourceUrls":[],
             "rss":[],
             "selected":true
         },
@@ -363,18 +421,22 @@
         },
         {
             "name":"Krosis Fansub",
-            "website":"http://krosisfansubs.weebly.com/",
-            "facebook":"",
+            "website":"https://krosis-subs.weebly.com/",
+            "facebook":"https://www.facebook.com/KrosisFansub/",
             "instagram":"",
             "twitter":"",
             "telegramChannel":"",
             "telegramGroup":"",
-            "discord":"",
-            "otherLinks":[],
+            "discord":"https://discord.gg/cnw6HUp",
+            "otherLinks":[
+                "http://krosisfansubs.weebly.com/"
+            ],
             "torrentSourceUrls":[
                 "https://nyaa.si/user/KrosisFansub"
             ],
-            "rss":[],
+            "rss":[
+                "https://nyaa.si/?page=rss&u=KrosisFansub"
+            ],
             "selected":true
         },
         {
@@ -393,14 +455,16 @@
         },
         {
             "name":"L&K Fansub",
-            "website":"https://t.me/LKFansub/",
+            "website":"https://lkfansub.wordpress.com/",
             "facebook":"",
             "instagram":"",
             "twitter":"",
-            "telegramChannel":"",
+            "telegramChannel":"https://t.me/joinchat/X5T9FcGGS09kZWNk",
             "telegramGroup":"",
             "discord":"",
-            "otherLinks":[],
+            "otherLinks":[
+                "https://t.me/joinchat/K435i8SHiAVlN2E0"
+            ],
             "torrentSourceUrls":[],
             "rss":[],
             "selected":true
@@ -408,17 +472,20 @@
         {
             "name":"LovelySubs",
             "website":"http://lovelysubs.weebly.com/",
-            "facebook":"",
+            "facebook":"https://www.facebook.com/lovelysubsitalian/",
             "instagram":"",
             "twitter":"",
             "telegramChannel":"",
             "telegramGroup":"",
-            "discord":"",
+            "discord":"https://discord.gg/6YtWkBE",
             "otherLinks":[],
             "torrentSourceUrls":[
                 "https://nyaa.si/user/Rinkana"
             ],
-            "rss":[],
+            "rss":[
+                "http://lovelysubs.weebly.com/1/feed",
+                "https://nyaa.si/?page=rss&u=Rinkana"
+            ],
             "selected":true
         },
         {
@@ -473,29 +540,35 @@
             "website":"https://nappysubs.moe",
             "facebook":"",
             "instagram":"",
-            "twitter":"",
+            "twitter":"https://twitter.com/Nappysubs",
             "telegramChannel":"",
             "telegramGroup":"",
-            "discord":"",
+            "discord":"https://discord.gg/mNZRcjs",
             "otherLinks":[
                 "https://nappysub.wordpress.com/"
             ],
             "torrentSourceUrls":[
                 "https://nyaa.si/user/Zahj"
             ],
-            "rss":[],
+            "rss":[
+                "https://nyaa.si/?page=rss&u=Zahj"
+            ],
             "selected":true
         },
         {
             "name":"Norowa-sensei",
             "website":"https://maledizionedellaluna.wordpress.com/",
             "facebook":"https://www.facebook.com/tiffany.lilla.1",
-            "instagram":"",
+            "instagram":"https://www.instagram.com/norowa_wattpad/",
             "twitter":"",
             "telegramChannel":"",
             "telegramGroup":"",
             "discord":"",
-            "otherLinks":[],
+            "otherLinks":[
+                "https://www.facebook.com/groups/543726036203302/",
+                "https://norowa-sensei.tumblr.com/",
+                "https://www.youtube.com/channel/UCnSNYSR_sa_5-kERbbMT0Vw"
+            ],
             "torrentSourceUrls":[],
             "rss":[],
             "selected":true
@@ -569,6 +642,8 @@
                 "https://nyaa.si/user/Owari"
             ],
             "rss":[
+                "http://pantalonirossi.lacumpa.biz/?feed=rss2",
+                "http://pantalonirossi.lacumpa.biz/?feed=comments-rss2",
                 "https://nyaa.si/?page=rss&u=Owari"
             ],
             "selected":true
@@ -608,7 +683,7 @@
                 "https://t.me/ROFAnime_Manga",
                 "http://www.facebook.com/groups/556086895437726",
                 "https://vm.tiktok.com/ZM8DgupLC/",
-                "https://youtube.com/channel/UCZHk5a4sVmUFUaSEkGsDaCQ",
+                "https://youtube.com/channel/UCZHk5a4sVmUFUaSEkGsDaCQ"
             ],
             "torrentSourceUrls":[],
             "rss":[
@@ -638,7 +713,7 @@
             "name":"Rorro Ranobe",
             "website":"https://rorroranobe.wordpress.com/",
             "facebook":"",
-            "instagram":"",
+            "instagram":"https://instagram.com/rorroranobe",
             "twitter":"",
             "telegramChannel":"https://t.me/rorroranobe",
             "telegramGroup":"https://t.me/animerorro",
@@ -651,9 +726,9 @@
         {
             "name":"Ryuujin Subs",
             "website":"https://rjsubs.wordpress.com/",
-            "facebook":"",
+            "facebook":"https://www.facebook.com/Ryuujin-Subs-108203581062401",
             "instagram":"",
-            "twitter":"",
+            "twitter":"https://twitter.com/SubsRyuujin",
             "telegramChannel":"",
             "telegramGroup":"",
             "discord":"",
@@ -672,10 +747,13 @@
             "telegramGroup":"https://t.me/AllAnimeGroup",
             "discord":"https://discord.gg/RWrpjPg",
             "otherLinks":[],
-            "torrentSourceUrls":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/SadameNoFansub"
+            ],
             "rss":[
                 "https://sadamenofansub.blogspot.com/feeds/posts/default",
-                "https://sadamenofansub.blogspot.com/feeds/comments/default"
+                "https://sadamenofansub.blogspot.com/feeds/comments/default",
+                "https://nyaa.si/?page=rss&u=SadameNoFansub"
             ],
             "selected":true
         },
@@ -689,18 +767,22 @@
             "telegramGroup":"",
             "discord":"",
             "otherLinks":[],
-            "torrentSourceUrls":[],
-            "rss":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/tormento"
+            ],
+            "rss":[
+                "https://nyaa.si/?page=rss&u=tormento"
+            ],
             "selected":true
         },
         {
             "name":"Solo Fansub",
             "website":"https://sites.google.com/view/solofansub/home",
-            "facebook":"",
+            "facebook":"https://www.facebook.com/SaroSub/",
             "instagram":"",
             "twitter":"",
             "telegramChannel":"",
-            "telegramGroup":"",
+            "telegramGroup":"https://t.me/JoK3R90",
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
@@ -724,13 +806,15 @@
         {
             "name":"SSA",
             "website":"http://ssafansub.altervista.org/",
-            "facebook":"",
+            "facebook":"https://www.facebook.com/SSA-Fansub-237370536295735",
             "instagram":"",
             "twitter":"",
             "telegramChannel":"",
-            "telegramGroup":"",
+            "telegramGroup":"https://t.me/SSAFansub",
             "discord":"",
-            "otherLinks":[],
+            "otherLinks":[
+                "https://widget.mibbit.com/?settings=e5f4de842c3f9bf0a530fcc09a11ce32&server=irc.immortal-anime.net&channel=%23SSA"
+            ],
             "torrentSourceUrls":[],
             "rss":[],
             "selected":true
@@ -746,13 +830,34 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
-            "rss":[],
+            "rss":[
+                "https://stratosanime.forumcommunity.net/rss.php?c=642819"
+            ],
             "selected":true
         },
         {
             "name":"SubZero",
             "website":"http://www.subzero.it/",
-            "facebook":"",
+            "facebook":"http://www.facebook.com/SubZero.fansub",
+            "instagram":"https://www.instagram.com/subzero_fansub/",
+            "twitter":"https://twitter.com/Subzero_fansub",
+            "telegramChannel":"",
+            "telegramGroup":"",
+            "discord":"",
+            "otherLinks":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/SubZero",
+                "http://www.subzero.it/torrent"
+            ],
+            "rss":[
+                "https://nyaa.si/?page=rss&u=SubZero"
+            ],
+            "selected":true
+        },
+        {
+            "name":"STS Italia Fansub",
+            "website":"https://sts-italiafansub.forumfree.it/",
+            "facebook":"https://www.facebook.com/STSItaliaFansub/",
             "instagram":"",
             "twitter":"",
             "telegramChannel":"",
@@ -760,48 +865,65 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
-            "rss":[],
+            "rss":[
+                "https://sts-italiafansub.forumfree.it/rss.php?c=1071301",
+                "https://sts-italiafansub.forumfree.it/rss.php?c=1071301&src=tag"
+            ],
             "selected":true
         },
         {
             "name":"Tanoshimi no Sekai",
             "website":"https://tnsfansub.com/",
-            "facebook":"",
+            "facebook":"https://www.facebook.com/TnS-Tanoshimi-no-Sekai-Fansub-1649633198659339",
             "instagram":"",
             "twitter":"",
-            "telegramChannel":"",
+            "telegramChannel":"https://t.me/TnSFansub",
             "telegramGroup":"",
             "discord":"",
-            "otherLinks":[],
-            "torrentSourceUrls":[],
-            "rss":[],
+            "otherLinks":[
+                "https://www.youtube.com/channel/UC6j9vQ3Dhm4szf60pTae83A"
+            ],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/tnsfansub"
+            ],
+            "rss":[
+                "https://nyaa.si/?page=rss&u=tnsfansub"
+            ],
             "selected":true
         },
         {
             "name":"Tonkatsu Fansub",
             "website":"http://tonkatsufansub.com/",
-            "facebook":"",
+            "facebook":"https://www.facebook.com/tonkatsufansub/",
             "instagram":"",
             "twitter":"",
             "telegramChannel":"",
             "telegramGroup":"",
             "discord":"",
             "otherLinks":[],
-            "torrentSourceUrls":[],
-            "rss":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/fabiodallas92"
+            ],
+            "rss":[
+                "https://nyaa.si/?page=rss&u=fabiodallas92"
+            ],
             "selected":true
         },
         {
             "name":"UMS",
             "website":"http://trackerums.altervista.org/",
-            "facebook":"",
+            "facebook":"https://www.facebook.com/umsfansub/",
             "instagram":"",
-            "twitter":"",
+            "twitter":"https://twitter.com/UMS_fansub",
             "telegramChannel":"",
             "telegramGroup":"",
             "discord":"",
-            "otherLinks":[],
-            "torrentSourceUrls":[],
+            "otherLinks":[
+                "http://www.hiumi.it/"
+            ],
+            "torrentSourceUrls":[
+                "https://nyaa.si/?f=0&c=0_0&q=ums"
+            ],
             "rss":[],
             "selected":true
         },
@@ -816,13 +938,16 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
-            "rss":[],
+            "rss":[
+                "https://arashic.forumcommunity.net/rss.php?f=8671160",
+                "https://arashic.forumcommunity.net/rss.php?f=8671160&nc=1"
+            ],
             "selected":true
         },
         {
             "name":"WhineSubs",
             "website":"https://whinesubs.wordpress.com",
-            "facebook":"",
+            "facebook":"https://www.facebook.com/WhineSubs/",
             "instagram":"",
             "twitter":"",
             "telegramChannel":"",
@@ -830,7 +955,10 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
-            "rss":[],
+            "rss":[
+                "https://whinesubs.wordpress.com/feed/",
+                "https://whinesubs.wordpress.com/comments/feed/"
+            ],
             "selected":true
         },
         {
@@ -853,42 +981,58 @@
         {
             "name":"Yaoi 801",
             "website":"http://www.yaoi801fansub.it/",
-            "facebook":"",
+            "facebook":"https://www.facebook.com/Yaoi801Fansub?ref=hl",
             "instagram":"",
-            "twitter":"",
+            "twitter":"https://twitter.com/Yaoi801Fansub",
             "telegramChannel":"",
             "telegramGroup":"",
             "discord":"",
-            "otherLinks":[],
-            "torrentSourceUrls":[],
-            "rss":[],
+            "otherLinks":[
+                "http://yaoi801.altervista.org/index.php"
+            ],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/iijima"
+            ],
+            "rss":[
+                "http://www.yaoi801fansub.it/feed/",
+                "http://www.yaoi801fansub.it/comments/feed/",
+                "https://nyaa.si/?page=rss&u=iijima"
+            ],
             "selected":true
         },
         {
             "name":"NIF Team",
             "website":"https://nifteam.forumcommunity.net/",
-            "facebook":"",
-            "instagram":"",
+            "facebook":"https://www.facebook.com/NarutoItalianForum/",
+            "instagram":"https://www.instagram.com/nifteam/",
             "twitter":"",
-            "telegramChannel":"",
-            "telegramGroup":"",
-            "discord":"",
+            "telegramChannel":"https://t.me/NIFTeam",
+            "telegramGroup":"https://t.me/NIFTeamAnimeManga",
+            "discord":"https://discord.gg/f2XGJJU",
             "otherLinks":[],
-            "torrentSourceUrls":[],
-            "rss":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/?f=0&c=0_0&q=%5BNIF+Team%5D"
+            ],
+            "rss":[
+                "https://script.forumcommunity.net:5000/?customShout=newsbox&forum=nifteam.forumcommunity.net&rss=nifteam.forumcommunity.net.xml",
+                "https://nifteam.forumcommunity.net/rss.php?c=653249",
+                "https://nifteam.forumcommunity.net/rss.php?c=653249&src=tag"
+            ],
             "selected":true
         },
         {
             "name":"OPF Italia",
             "website":"https://www.opfitalia.net",
-            "facebook":"",
+            "facebook":"https://www.facebook.com/pg/OPFITALIA/",
             "instagram":"",
             "twitter":"",
             "telegramChannel":"",
             "telegramGroup":"",
             "discord":"",
             "otherLinks":[],
-            "torrentSourceUrls":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/?f=0&c=0_0&q=%5BOPF-Italia%5D"
+            ],
             "rss":[],
             "selected":true
         }
@@ -910,6 +1054,74 @@
             "selected":true
         },
         {
+            "name":"Recupero AAS (si occupa del recupero delle release dei gruppi chiusi listati sul defunto AAS forum)",
+            "website":"",
+            "facebook":"",
+            "instagram":"",
+            "twitter":"",
+            "telegramChannel":"https://t.me/+TL9Og9viORc2N2Y0",
+            "telegramGroup":"https://t.me/+yNnGS0w9l4w1Y2U0",
+            "discord":"",
+            "otherLinks":[],
+            "torrentSourceUrls":[],
+            "rss":[],
+            "selected":true
+        },
+        {
+            "name":"stress",
+            "website":"",
+            "facebook":"",
+            "instagram":"",
+            "twitter":"",
+            "telegramChannel":"",
+            "telegramGroup":"",
+            "discord":"",
+            "otherLinks":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/stress"
+            ],
+            "rss":[
+                "https://nyaa.si/?page=rss&u=stress"
+            ],
+            "selected":true
+        },
+        {
+            "name":"ImFilippo",
+            "website":"",
+            "facebook":"",
+            "instagram":"",
+            "twitter":"",
+            "telegramChannel":"",
+            "telegramGroup":"",
+            "discord":"",
+            "otherLinks":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/ImFilippo"
+            ],
+            "rss":[
+                "https://nyaa.si/?page=rss&u=ImFilippo"
+            ],
+            "selected":true
+        },
+        {
+            "name":"Salem85",
+            "website":"",
+            "facebook":"",
+            "instagram":"",
+            "twitter":"",
+            "telegramChannel":"",
+            "telegramGroup":"",
+            "discord":"",
+            "otherLinks":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/Salem85"
+            ],
+            "rss":[
+                "https://nyaa.si/?page=rss&u=Salem85"
+            ],
+            "selected":true
+        },
+        {
             "name":"Ghegghe",
             "website":"",
             "facebook":"",
@@ -922,7 +1134,9 @@
             "torrentSourceUrls":[
                 "https://nyaa.si/user/Ghegghe"
             ],
-            "rss":[],
+            "rss":[
+                "https://nyaa.si/?page=rss&u=Ghegghe"
+            ],
             "selected":true
         },
         {
@@ -938,7 +1152,9 @@
             "torrentSourceUrls":[
                 "https://nyaa.si/user/JOKay_"
             ],
-            "rss":[],
+            "rss":[
+                "https://nyaa.si/?page=rss&u=JOKay_"
+            ],
             "selected":true
         }
         
@@ -2620,6 +2836,22 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[],
+            "rss":[],
+            "selected":true
+        },
+        {
+            "name":"Funny and Fantasy Subs",
+            "website":"http://www.fefs.it",
+            "facebook":"",
+            "instagram":"",
+            "twitter":"",
+            "telegramChannel":"",
+            "telegramGroup":"",
+            "discord":"",
+            "otherLinks":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/?f=0&c=0_0&q=%22[F%26Fs]%22"
+            ],
             "rss":[],
             "selected":true
         },

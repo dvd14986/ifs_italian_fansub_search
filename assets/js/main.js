@@ -66,8 +66,8 @@ function bindRowCheckbox(){
 
 
 function clearTable(tableId){
-	table = document.getElementById(tableId);
-	empty_tbody = document.createElement('tbody');
+	let table = document.getElementById(tableId);
+	let empty_tbody = document.createElement('tbody');
 	table.replaceChild(empty_tbody, table.getElementsByTagName("tbody")[0]);
 }
 
@@ -85,8 +85,8 @@ function addRows(tableId, elements){
 	// "otherLinks":[],
 	// "torrentSourceUrls":[]
 
-	table = document.getElementById(tableId);
-	tbody = table.getElementsByTagName("tbody")[0];
+	let table = document.getElementById(tableId);
+	let tbody = table.getElementsByTagName("tbody")[0];
 
 	// 	table = document.getElementById(tableId);
 	// 	tbody = table.getElementsByTagName("tbody")[0];
@@ -111,24 +111,26 @@ function addRows(tableId, elements){
 
 		// fansubName = obj.fansubName;
 		// url = obj.url;
-		social = buildSocial();
-		other = elements[i].otherLinks.join("<br>");
-		selected = elements[i].selected ?? false
+		let social = buildSocial();
+		let other = elements[i].otherLinks.join("<br>");
+		let selected = elements[i].selected ?? false
 
-		var emptyRow = `
+		let emptyRow = `
 		<tr class="spacer">
 			<td colspan="100"></td>
 		</tr>
 		`;
-		row = tbody.insertRow(-1);
+		let row = tbody.insertRow(-1);
 		row.innerHTML = emptyRow;
 		row.classList.add("spacer");
+		let checkedElement = selected ? "checked=true" : "";
 
-		var baseRow = `
+
+		let baseRow = `
 		<tr>
 			<th scope="row">
 				<label class="control control--checkbox">
-					<input type="checkbox" id="${itemId}" checked=${selected}>
+					<input type="checkbox" id="${itemId}" ${checkedElement}>
 					<div class="control__indicator"></div>
 				</label>
 			</th>
@@ -153,7 +155,7 @@ function buildSocial(){
 
 
 function buildSearchLink(type){
-	let searchLink = "https://www.google.com/search?q=";
+	let searchLink = "https://www.google.com/search?q=intitle:";
 	searchLink += document.getElementById("search").value;
 	searchLink +=" site:"
 	let websites = [];
