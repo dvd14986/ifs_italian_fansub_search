@@ -155,42 +155,58 @@ function buildSocial(){
 
 
 function buildSearchLink(type){
-	let searchLink = "https://www.google.com/search?q=intitle:";
-	searchLink += document.getElementById("search").value;
-	searchLink +=" site:"
 	let websites = [];
 	let torrents = [];
 	fansubData.alive.forEach(function(item){
-		if (item.selected){
-			websites.push(item.website.replace("https://www.",'').replace("http://www.",'').replace("https://",'').replace("http://",'').replace("www.",''))
-			torrents=torrents.concat(item.torrentSourceUrls)
+		if (item.selected && item.website != ""){
+			websites.push(clearLink(item.website))
+			torrents=torrents.concat(item.torrentSourceUrls.map((t)=>{return clearLink(t)}))
 		}
 	});
 	fansubData.misc.forEach(function(item){
-		if (item.selected){
-			websites.push(item.website.replace("https://www.",'').replace("http://www.",'').replace("https://",'').replace("http://",'').replace("www.",''))
-			torrents=torrents.concat(item.torrentSourceUrls)
+		if (item.selected && item.website != ""){
+			websites.push(clearLink(item.website))
+			torrents=torrents.concat(item.torrentSourceUrls.map((t)=>{return clearLink(t)}))
 		}
 	});
 	fansubData.dead.forEach(function(item){
-		if (item.selected){
-			websites.push(item.website.replace("https://www.",'').replace("http://www.",'').replace("https://",'').replace("http://",'').replace("www.",''))
-			torrents=torrents.concat(item.torrentSourceUrls)
+		if (item.selected && item.website != ""){
+			websites.push(clearLink(item.website))
+			torrents=torrents.concat(item.torrentSourceUrls.map((t)=>{return clearLink(t)}))
 		}
 	});
 
+	let baseLink = "https://www.google.com/search?q=";
+	let intitle = "intitle:"
+	let searchValue = document.getElementById("search").value;
+	let searchUrlsWebSites = ""
+	let searchUrlsTorrent = ""
 	switch (type){
 		case "websites":
-			searchLink += websites.join(" OR site:");
+			searchUrlsWebSites += websites.join(" OR site:");
+			searchLinkWeb = baseLink + intitle + searchValue + " site:" + searchUrlsWebSites
+			window.open(searchLinkWeb, '_blank').focus();
 			break;
 		case "torrents":
-			searchLink += torrents.join(" OR site:");
+			searchUrlsTorrent += torrents.join(" OR site:");
+			searchLinkTorrent = baseLink + searchValue + " site:" + searchUrlsTorrent
+			console.log(searchLinkTorrent);
+			window.open(searchLinkTorrent, '_blank').focus();
 			break;
 		case "all":
-			searchLink += websites.concat(torrents).join(" OR site:");
+			searchUrlsWebSites += websites.join(" OR site:");
+			searchLinkWeb = baseLink + intitle + searchValue + " site:" + searchUrlsWebSites
+			window.open(searchLinkWeb, '_blank').focus();
+
+			searchUrlsTorrent += torrents.join(" OR site:");
+			searchLinkTorrent = baseLink + searchValue + " site:" + searchUrlsTorrent
+			console.log(searchLinkTorrent);
+			window.open(searchLinkTorrent, '_blank').focus();
 		default:
 	}
-	console.log(searchLink);
-	window.open(searchLink, '_blank').focus();
+}
 
+
+function clearLink(link){
+	return link.replace("https://www.",'').replace("http://www.",'').replace("https://",'').replace("http://",'').replace("www.",'');
 }

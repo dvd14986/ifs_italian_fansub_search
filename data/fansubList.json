@@ -1068,7 +1068,7 @@
             "selected":true
         },
         {
-            "name":"stress",
+            "name":"Ghegghe",
             "website":"",
             "facebook":"",
             "instagram":"",
@@ -1078,10 +1078,28 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[
-                "https://nyaa.si/user/stress"
+                "https://nyaa.si/user/Ghegghe"
             ],
             "rss":[
-                "https://nyaa.si/?page=rss&u=stress"
+                "https://nyaa.si/?page=rss&u=Ghegghe"
+            ],
+            "selected":true
+        },
+        {
+            "name":"JOKay_",
+            "website":"",
+            "facebook":"",
+            "instagram":"",
+            "twitter":"",
+            "telegramChannel":"",
+            "telegramGroup":"",
+            "discord":"",
+            "otherLinks":[],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/JOKay_"
+            ],
+            "rss":[
+                "https://nyaa.si/?page=rss&u=JOKay_"
             ],
             "selected":true
         },
@@ -1122,7 +1140,7 @@
             "selected":true
         },
         {
-            "name":"Ghegghe",
+            "name":"stress",
             "website":"",
             "facebook":"",
             "instagram":"",
@@ -1132,32 +1150,13 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[
-                "https://nyaa.si/user/Ghegghe"
+                "https://nyaa.si/user/stress"
             ],
             "rss":[
-                "https://nyaa.si/?page=rss&u=Ghegghe"
+                "https://nyaa.si/?page=rss&u=stress"
             ],
             "selected":true
-        },
-        {
-            "name":"JOKay_",
-            "website":"",
-            "facebook":"",
-            "instagram":"",
-            "twitter":"",
-            "telegramChannel":"",
-            "telegramGroup":"",
-            "discord":"",
-            "otherLinks":[],
-            "torrentSourceUrls":[
-                "https://nyaa.si/user/JOKay_"
-            ],
-            "rss":[
-                "https://nyaa.si/?page=rss&u=JOKay_"
-            ],
-            "selected":true
-        }
-        
+        }       
     ],
 "dead":
     [
