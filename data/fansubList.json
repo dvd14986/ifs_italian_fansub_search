@@ -4005,15 +4005,22 @@
         {
             "name":"MangaAnimeSekai (MAS Fansub)",
             "website":"http://mangaanimesekai.netsons.org/",
-            "facebook":"",
+            "facebook":"https://www.facebook.com/Mangaanimesekai",
             "instagram":"",
             "twitter":"",
             "telegramChannel":"",
             "telegramGroup":"",
             "discord":"",
-            "otherLinks":[],
-            "torrentSourceUrls":[],
-            "rss":[],
+            "otherLinks":[
+                "http://mangaanimesekai.net/",
+                "https://www.youtube.com/user/NewMangaAnimeSekai"
+            ],
+            "torrentSourceUrls":[
+                "https://nyaa.si/user/Gianlusora91"
+            ],
+            "rss":[
+                "https://nyaa.si/?page=rss&u=Gianlusora91"
+            ],
             "selected":true
         },
         {
