@@ -823,6 +823,21 @@
             "selected":true
         },
         {
+            "name":"ScroFansub",
+            "website":"https://scrofansub.altervista.org/",
+            "facebook":"https://www.facebook.com/ScroFansub",
+            "instagram":"",
+            "twitter":"https://twitter.com/Scrofansub",
+            "telegramChannel":"",
+            "telegramGroup":"",
+            "discord":"",
+            "otherLinks":[],
+            "torrentSourceUrls":[],
+            "rss":[],
+            "note":"",
+            "selected":true
+        },
+        {
             "name":"Solo Fansub",
             "website":"https://sites.google.com/view/solofansub/home",
             "facebook":"https://www.facebook.com/SaroSub/",
