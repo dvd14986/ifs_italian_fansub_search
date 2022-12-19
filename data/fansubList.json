@@ -1,5 +1,5 @@
 {
-    "last_update": "2022-11-17",
+    "last_update": "2022-12-19",
     "alive" : [
         {
             "name":"Aegi Stranding",
@@ -17,6 +17,7 @@
             "rss":[
                 "https://nyaa.si/?page=rss&u=Yokoshima"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -37,6 +38,7 @@
             "rss":[
                 "https://nyaa.si/?page=rss&u=Anime-Legacy"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -57,6 +59,7 @@
             "rss":[
                 "https://nyaa.si/?page=rss&u=Dhymos75"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -73,6 +76,7 @@
             ],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -93,6 +97,7 @@
                 "https://bestfansubever.forumfree.it/rss.php?c=874025&src=tag",
                 "https://nyaa.si/?page=rss&u=BestFansubEver"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -113,6 +118,7 @@
             "rss":[
                 "https://nyaa.si/?page=rss&u=kashim"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -133,6 +139,7 @@
             "rss":[
                 "https://nyaa.si/?page=rss&u=BBF"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -153,6 +160,7 @@
                 "https://cwod.openthesteinsgate.it/comments/feed/",
                 "https://nyaa.si/?page=rss&u=WingsOfBahamut"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -172,6 +180,7 @@
                 "https://nyaa.si/?page=rss&u=Chokoreto",
                 "https://chokoretofansub.altervista.org/feed/"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -188,6 +197,7 @@
             "rss":[
                 "http://fetchrss.com/rss/6059d680ea2d0b04e1186d526059d79ca9a87b2a7e360462.xml"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -209,6 +219,7 @@
                 "https://dcfamilysubs.com/feed/",
                 "https://nyaa.si/?page=rss&u=DCFSubs"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -232,6 +243,7 @@
                 "https://demoneceleste.forumfree.it/rss.php?c=1028992&src=tag",
                 "https://nyaa.si/?page=rss&u=DemoneCeleste"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -252,6 +264,7 @@
                 "https://www.emblem-subs.org/comments/feed/",
                 "https://nyaa.si/?page=rss&u=Emblem-Subs"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -271,6 +284,7 @@
                 "https://foxy63subs.wordpress.com/feed/",
                 "https://nyaa.si/?page=rss&u=Foxy-Subs"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -289,6 +303,7 @@
             "rss":[
                 "https://nyaa.si/?page=rss&u=GattoNeroFansub"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -309,6 +324,7 @@
                 "https://hanasaku-subs.com/comments/feed/",
                 "https://nyaa.si/?page=rss&u=Hanasaku"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -323,6 +339,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -345,6 +362,7 @@
                 "https://initialdfansub.forumcommunity.net/rss.php?c=86044&src=tag",
                 "https://nyaa.si/?page=rss&u=IDIF"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -366,6 +384,7 @@
                 "https://subranger.it/feed",
                 "https://anidex.info/rss/user/8838"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -384,6 +403,7 @@
             "rss":[
                 "https://nyaa.si/?page=rss&u=Videonello_S10"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -398,6 +418,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -417,6 +438,7 @@
                 "https://kwfansub.weebly.com/2/feed",
                 "https://nyaa.si/?page=rss&u=KonaStar"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -437,6 +459,7 @@
             "rss":[
                 "https://nyaa.si/?page=rss&u=KrosisFansub"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -451,6 +474,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -467,6 +491,7 @@
             ],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -486,6 +511,7 @@
                 "http://lovelysubs.weebly.com/1/feed",
                 "https://nyaa.si/?page=rss&u=Rinkana"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -503,6 +529,7 @@
             ],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -517,6 +544,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -533,6 +561,7 @@
             "rss":[
                 "https://nafsub.weebly.com/1/feed"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -553,6 +582,7 @@
             "rss":[
                 "https://nyaa.si/?page=rss&u=Zahj"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -571,6 +601,7 @@
             ],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -589,6 +620,7 @@
             "rss":[
                 "https://nyaa.si/?page=rss&u=Omnivium"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -606,6 +638,7 @@
             ],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -626,6 +659,7 @@
                 "https://owarisubs.lacumpa.biz/comments/feed/",
                 "https://nyaa.si/?page=rss&u=Owari"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -646,6 +680,7 @@
                 "http://pantalonirossi.lacumpa.biz/?feed=comments-rss2",
                 "https://nyaa.si/?page=rss&u=Owari"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -659,11 +694,17 @@
             "discord":"",
             "otherLinks":[],
             "torrentSourceUrls":[
-                "https://nyaa.si/user/Preacer"
+                "https://nyaa.si/user/Preacer",
+                "https://anidex.info/user/5846",
+                "https://anidex.info/group/95"
+
             ],
             "rss":[
-                "https://nyaa.si/?page=rss&u=Preacer"
+                "https://nyaa.si/?page=rss&u=Preacer",
+                "https://anidex.info/rss/user/5846",
+                "https://anidex.info/rss/group/95"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -691,6 +732,7 @@
                 "https://ramaorientalfansub.forumfree.it/rss.php?c=1062104",
                 "https://ramaorientalfansub.forumfree.it/rss.php?c=1062104&src=tag"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -707,6 +749,7 @@
             ],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -721,6 +764,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -735,6 +779,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -755,6 +800,7 @@
                 "https://sadamenofansub.blogspot.com/feeds/comments/default",
                 "https://nyaa.si/?page=rss&u=SadameNoFansub"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -773,6 +819,7 @@
             "rss":[
                 "https://nyaa.si/?page=rss&u=tormento"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -787,6 +834,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -801,6 +849,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -817,6 +866,7 @@
             ],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -833,6 +883,7 @@
             "rss":[
                 "https://stratosanime.forumcommunity.net/rss.php?c=642819"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -852,6 +903,7 @@
             "rss":[
                 "https://nyaa.si/?page=rss&u=SubZero"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -869,6 +921,7 @@
                 "https://sts-italiafansub.forumfree.it/rss.php?c=1071301",
                 "https://sts-italiafansub.forumfree.it/rss.php?c=1071301&src=tag"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -889,6 +942,7 @@
             "rss":[
                 "https://nyaa.si/?page=rss&u=tnsfansub"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -907,6 +961,7 @@
             "rss":[
                 "https://nyaa.si/?page=rss&u=fabiodallas92"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -925,6 +980,7 @@
                 "https://nyaa.si/?f=0&c=0_0&q=ums"
             ],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -942,6 +998,7 @@
                 "https://arashic.forumcommunity.net/rss.php?f=8671160",
                 "https://arashic.forumcommunity.net/rss.php?f=8671160&nc=1"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -959,6 +1016,7 @@
                 "https://whinesubs.wordpress.com/feed/",
                 "https://whinesubs.wordpress.com/comments/feed/"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -976,6 +1034,7 @@
             ],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -998,6 +1057,7 @@
                 "http://www.yaoi801fansub.it/comments/feed/",
                 "https://nyaa.si/?page=rss&u=iijima"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -1018,6 +1078,7 @@
                 "https://nifteam.forumcommunity.net/rss.php?c=653249",
                 "https://nifteam.forumcommunity.net/rss.php?c=653249&src=tag"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -1034,13 +1095,14 @@
                 "https://nyaa.si/?f=0&c=0_0&q=%5BOPF-Italia%5D"
             ],
             "rss":[],
+            "note":"",
             "selected":true
         }
     ],
 "misc":
     [
         {
-            "name":"BM Zone (si occupa del recupero delle release dei gruppi chiusi)",
+            "name":"BM Zone",
             "website":"http://bmzone.forumfree.it/",
             "facebook":"",
             "instagram":"",
@@ -1051,10 +1113,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"si occupa del recupero delle release dei gruppi chiusi",
             "selected":true
         },
         {
-            "name":"Recupero AAS (si occupa del recupero delle release dei gruppi chiusi listati sul defunto AAS forum)",
+            "name":"Recupero AAS",
             "website":"",
             "facebook":"",
             "instagram":"",
@@ -1065,6 +1128,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"si occupa del recupero delle release dei gruppi chiusi listati sul defunto AAS forum",
             "selected":true
         },
         {
@@ -1083,6 +1147,7 @@
             "rss":[
                 "https://nyaa.si/?page=rss&u=Ghegghe"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -1101,6 +1166,7 @@
             "rss":[
                 "https://nyaa.si/?page=rss&u=JOKay_"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -1119,6 +1185,7 @@
             "rss":[
                 "https://nyaa.si/?page=rss&u=ImFilippo"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -1137,6 +1204,7 @@
             "rss":[
                 "https://nyaa.si/?page=rss&u=Salem85"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -1155,6 +1223,7 @@
             "rss":[
                 "https://nyaa.si/?page=rss&u=stress"
             ],
+            "note":"",
             "selected":true
         }       
     ],
@@ -1172,6 +1241,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1186,6 +1256,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1200,6 +1271,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1214,6 +1286,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1228,6 +1301,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1242,6 +1316,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1256,6 +1331,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1270,6 +1346,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1284,6 +1361,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1298,6 +1376,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
             },
         {
@@ -1312,6 +1391,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1326,6 +1406,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1340,6 +1421,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1354,6 +1436,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1368,6 +1451,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1382,6 +1466,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         
@@ -1397,6 +1482,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1411,6 +1497,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1425,6 +1512,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1439,6 +1527,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1453,6 +1542,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1467,6 +1557,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1481,6 +1572,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1495,6 +1587,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1509,6 +1602,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1523,6 +1617,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1537,6 +1632,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1551,10 +1647,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
-            "name":"Anime for Italian Fans(sono diventati Hentai for Italian Fans)",
+            "name":"Anime for Italian Fans",
             "website":"",
             "facebook":"",
             "instagram":"",
@@ -1565,6 +1662,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"sono diventati Hentai for Italian Fans",
             "selected":true
         },
         {
@@ -1579,6 +1677,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1593,6 +1692,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1607,6 +1707,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1621,10 +1722,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
-            "name":"Anime no Koe (sul sito degli XUM)",
+            "name":"Anime no Koe",
             "website":"",
             "facebook":"",
             "instagram":"",
@@ -1635,6 +1737,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"sul sito degli XUM",
             "selected":true
         },
         {
@@ -1649,6 +1752,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1663,6 +1767,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1675,7 +1780,10 @@
             "telegramGroup":"",
             "discord":"",
             "otherLinks":[],
-            "torrentSourceUrls":[]
+            "torrentSourceUrls":[],
+            "rss":[],
+            "note":"",
+            "selected":true
     },
     {
         "name":"AnimePassion",
@@ -1689,6 +1797,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1703,6 +1812,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1717,6 +1827,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1731,10 +1842,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
-            "name":"AnimeUniverse(sul sito degli SSK)",
+            "name":"AnimeUniverse",
             "website":"",
             "facebook":"",
             "instagram":"",
@@ -1745,6 +1857,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"sul sito degli SSK",
             "selected":true
         },
         {
@@ -1759,6 +1872,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1773,6 +1887,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1787,6 +1902,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1801,6 +1917,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1815,6 +1932,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1829,10 +1947,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
-            "name":"Arkham House (sul sito degli ISS)",
+            "name":"Arkham House",
             "website":"",
             "facebook":"",
             "instagram":"",
@@ -1843,6 +1962,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"sul sito degli ISS",
             "selected":true
         },
         {
@@ -1857,6 +1977,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1871,6 +1992,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1885,10 +2007,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
-            "name":"Atmosphere Fansub</a> (confluito nei Kanjisub)",
+            "name":"Atmosphere Fansub",
             "website":"http://www.atmospherefansub.blogspot.com/",
             "facebook":"",
             "instagram":"",
@@ -1899,6 +2022,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"confluito nei Kanjisub",
             "selected":true
         },
         {
@@ -1913,6 +2037,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1927,6 +2052,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1941,6 +2067,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1955,6 +2082,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
             },
         {
@@ -1969,6 +2097,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1983,6 +2112,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -1997,6 +2127,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2011,6 +2142,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2025,6 +2157,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2039,6 +2172,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2053,6 +2187,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2067,6 +2202,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2081,6 +2217,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2095,6 +2232,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2109,6 +2247,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2123,6 +2262,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2137,6 +2277,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2151,6 +2292,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2165,6 +2307,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2179,6 +2322,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2193,6 +2337,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2207,6 +2352,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2221,6 +2367,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2235,6 +2382,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2249,6 +2397,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2263,10 +2412,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
-            "name":"Dai no Ji</a> (già Fansub Nostrano)",
+            "name":"Dai no Ji",
             "website":"https://dainojisubs.wordpress.com/",
             "facebook":"",
             "instagram":"",
@@ -2277,6 +2427,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"già Fansub Nostrano",
             "selected":true
         },
         {
@@ -2291,6 +2442,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2305,10 +2457,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
-            "name":"Endless Eight Fansub</a> (confluito negli Shinsei-Kai)",
+            "name":"Endless Eight Fansub",
             "website":"http://endlesseightfansub.blogspot.com/",
             "facebook":"",
             "instagram":"",
@@ -2319,6 +2472,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"confluito negli Shinsei-Kai",
             "selected":true
         },
         {
@@ -2333,6 +2487,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2347,6 +2502,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2361,6 +2517,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2375,10 +2532,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
-            "name":"Darkwind FSDark Phoenix Corporation<",
+            "name":"Darkwind FSDark Phoenix Corporation",
             "website":"",
             "facebook":"",
             "instagram":"",
@@ -2389,6 +2547,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2403,6 +2562,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2417,10 +2577,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
-            "name":"Darkness FansubsDC Fansub (sito con sezioni protette)",
+            "name":"Darkness FansubsDC Fansub",
             "website":"",
             "facebook":"",
             "instagram":"",
@@ -2431,6 +2592,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"sito con sezioni protette",
             "selected":true
         },
         {
@@ -2445,6 +2607,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2459,6 +2622,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2473,10 +2637,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },        {
-            "name":"dnotomista (dnotomistaDOTforumattivoDOTcom)",
-            "website":"",
+            "name":"dnotomista",
+            "website":"https://dnotomista.forumattivo.com/",
             "facebook":"",
             "instagram":"",
             "twitter":"",
@@ -2486,6 +2651,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2500,6 +2666,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2514,6 +2681,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2528,6 +2696,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2542,6 +2711,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2556,6 +2726,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2570,6 +2741,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2584,6 +2756,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2598,6 +2771,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2612,10 +2786,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
-            "name":"Falling Souls Fansub(sono diventati Ao no Exorcist)",
+            "name":"Falling Souls Fansub",
             "website":"",
             "facebook":"",
             "instagram":"",
@@ -2626,6 +2801,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"sono diventati Ao no Exorcist",
             "selected":true
         },
         {
@@ -2640,6 +2816,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2654,6 +2831,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2668,6 +2846,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2682,6 +2861,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2696,6 +2876,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2710,6 +2891,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2724,6 +2906,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2738,6 +2921,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2752,6 +2936,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2766,6 +2951,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2780,6 +2966,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2794,6 +2981,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2808,6 +2996,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2822,6 +3011,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2836,6 +3026,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2852,6 +3043,7 @@
                 "https://nyaa.si/?f=0&c=0_0&q=%22[F%26Fs]%22"
             ],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2866,6 +3058,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2880,10 +3073,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
-            "name":"Ganbatte Fansub Team(sul sito degli UC Fansub)",
+            "name":"Ganbatte Fansub Team",
             "website":"",
             "facebook":"",
             "instagram":"",
@@ -2894,6 +3088,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"sul sito degli UC Fansub",
             "selected":true
         },
         {
@@ -2908,6 +3103,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2922,10 +3118,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
-            "name":"GnA(sul sito degli acK.it)",
+            "name":"GnA",
             "website":"",
             "facebook":"",
             "instagram":"",
@@ -2936,6 +3133,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"sul sito degli acK.it",
             "selected":true
         },
         {
@@ -2950,6 +3148,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2964,6 +3163,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2978,6 +3178,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -2992,6 +3193,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3006,6 +3208,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3020,6 +3223,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3034,6 +3238,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3048,10 +3253,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
-            "name":"Hinata-Fansubs (introvabili)",
+            "name":"Hinata-Fansubs",
             "website":"",
             "facebook":"",
             "instagram":"",
@@ -3062,6 +3268,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"introvabili",
             "selected":true
         },
         {
@@ -3076,6 +3283,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3090,6 +3298,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3104,6 +3313,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3118,6 +3328,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3132,6 +3343,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3146,10 +3358,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
-            "name":"Ichigo. (introvabili)",
+            "name":"Ichigo.",
             "website":"",
             "facebook":"",
             "instagram":"",
@@ -3160,6 +3373,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"introvabili",
             "selected":true
         },
         {
@@ -3174,6 +3388,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3188,6 +3403,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3202,6 +3418,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3216,6 +3433,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3230,6 +3448,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3244,10 +3463,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
-            "name":"ItaliAnime(ci sono seimila siti che si chiamano così, chi sono questi?)",
+            "name":"ItaliAnime",
             "website":"",
             "facebook":"",
             "instagram":"",
@@ -3258,6 +3478,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"ci sono seimila siti che si chiamano così, chi sono questi?",
             "selected":true
         },
         {
@@ -3272,6 +3493,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3286,6 +3508,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3300,10 +3523,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
-            "name":"Japon FansubsJargo (introvabili)",
+            "name":"Japon FansubsJargo",
             "website":"",
             "facebook":"",
             "instagram":"",
@@ -3314,10 +3538,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"introvabili",
             "selected":true
         },
         {
-            "name":"Jargo & Kuririn (introvabili)",
+            "name":"Jargo & Kuririn",
             "website":"",
             "facebook":"",
             "instagram":"",
@@ -3328,10 +3553,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"introvabili",
             "selected":true
         },
         {
-            "name":"Jargo & Slayn (introvabili)",
+            "name":"Jargo & Slayn",
             "website":"",
             "facebook":"",
             "instagram":"",
@@ -3342,6 +3568,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"introvabili",
             "selected":true
         },
         {
@@ -3356,6 +3583,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3370,6 +3598,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3384,6 +3613,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3398,6 +3628,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3412,6 +3643,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3426,6 +3658,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3440,6 +3673,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3454,6 +3688,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3468,10 +3703,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
-            "name":"Kemono Fansubs(si appoggiavano agli AnimePhobia)",
+            "name":"Kemono Fansubs",
             "website":"",
             "facebook":"",
             "instagram":"",
@@ -3482,6 +3718,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"si appoggiavano agli AnimePhobia",
             "selected":true
         },
         {
@@ -3496,6 +3733,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3510,6 +3748,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3524,6 +3763,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3538,6 +3778,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3552,6 +3793,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3566,6 +3808,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3580,6 +3823,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3594,6 +3838,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3608,10 +3853,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
-            "name":"Konoha Sennin Fansub</span>",
+            "name":"Konoha Sennin Fansub",
             "website":"http://konohafansub.altervista.org/",
             "facebook":"",
             "instagram":"",
@@ -3622,6 +3868,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3636,6 +3883,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3650,6 +3898,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3664,6 +3913,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3678,6 +3928,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3692,6 +3943,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3706,6 +3958,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3720,6 +3973,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3734,6 +3988,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3748,6 +4003,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3762,6 +4018,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3776,10 +4033,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
-            "name":"Kyuubi no fansub(stavano su Anidojo)",
+            "name":"Kyuubi no fansub",
             "website":"",
             "facebook":"",
             "instagram":"",
@@ -3790,6 +4048,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"stavano su Anidojo",
             "selected":true
         },
         {
@@ -3804,6 +4063,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3818,10 +4078,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
-            "name":"Jinsei Fansub</span>",
+            "name":"Jinsei Fansub",
             "website":"http://jinseifansub.blogspot.com/",
             "facebook":"",
             "instagram":"",
@@ -3832,6 +4093,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3846,10 +4108,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
-            "name":"L&D(si appoggiavano agli AnimePhobia)",
+            "name":"L&D",
             "website":"",
             "facebook":"",
             "instagram":"",
@@ -3860,10 +4123,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"si appoggiavano agli AnimePhobia",
             "selected":true
         },
         {
-            "name":"Lawliet Fansub(sul sito di Twilight Brigade)",
+            "name":"Lawliet Fansub",
             "website":"",
             "facebook":"",
             "instagram":"",
@@ -3874,6 +4138,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"sul sito di Twilight Brigade",
             "selected":true
         },
         {
@@ -3888,6 +4153,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3902,6 +4168,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3916,6 +4183,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3930,6 +4198,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3944,6 +4213,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3958,6 +4228,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3972,6 +4243,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -3986,6 +4258,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4000,6 +4273,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4021,6 +4295,7 @@
             "rss":[
                 "https://nyaa.si/?page=rss&u=Gianlusora91"
             ],
+            "note":"",
             "selected":true
         },
         {
@@ -4035,6 +4310,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4049,6 +4325,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4063,6 +4340,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4077,6 +4355,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4091,6 +4370,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4105,6 +4385,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4119,6 +4400,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4133,6 +4415,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4147,6 +4430,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4161,6 +4445,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4175,10 +4460,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
-            "name":"Mustafànsub(sul sito degli Psycho)",
+            "name":"Mustafànsub",
             "website":"",
             "facebook":"",
             "instagram":"",
@@ -4189,10 +4475,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"sul sito degli Psycho",
             "selected":true
         },
         {
-            "name":"Mononoke </span>(sul sito dei Supremes)",
+            "name":"Mononoke",
             "website":"",
             "facebook":"",
             "instagram":"",
@@ -4203,10 +4490,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"sul sito dei Supremes",
             "selected":true
         },
         {
-            "name":"MySubs™ TeAm(introvabili)",
+            "name":"MySubs™ TeAm",
             "website":"",
             "facebook":"",
             "instagram":"",
@@ -4217,6 +4505,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"introvabili",
             "selected":true
         },
         {
@@ -4231,6 +4520,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4245,6 +4535,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4259,6 +4550,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4273,6 +4565,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4287,6 +4580,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4301,6 +4595,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4315,6 +4610,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4329,6 +4625,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4343,6 +4640,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4357,6 +4655,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4371,6 +4670,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4385,6 +4685,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4399,6 +4700,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4413,6 +4715,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4427,10 +4730,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
-            "name":"Omoshiroi</a> (già Omoshiroi & Obscure / Omoshiroi e Obscure Team)",
+            "name":"Omoshiroi",
             "website":"http://www.omoshiroifansub.net/fusion/",
             "facebook":"",
             "instagram":"",
@@ -4441,6 +4745,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"già Omoshiroi & Obscure / Omoshiroi e Obscure Team",
             "selected":true
         },
         {
@@ -4455,10 +4760,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
-            "name":"Onibaku</span>",
+            "name":"Onibaku",
             "website":"http://onibakufansubs.altervista.org/",
             "facebook":"",
             "instagram":"",
@@ -4469,6 +4775,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4483,6 +4790,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4497,6 +4805,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4511,6 +4820,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4525,6 +4835,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4539,6 +4850,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4553,10 +4865,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
-            "name":"Otaku no Fansub</a> (confluiti negli Owari Subs)",
+            "name":"Otaku no Fansub",
             "website":"http://otaku-no-fansub.blogspot.com/",
             "facebook":"",
             "instagram":"",
@@ -4567,6 +4880,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"confluiti negli Owari Subs",
             "selected":true
         },
         {
@@ -4581,6 +4895,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4595,10 +4910,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
-            "name":"Pazuzu Fansubs</span>",
+            "name":"Pazuzu Fansubs",
             "website":"http://utenti.multimania.it/pazuzufansub/pazuzu2.htm",
             "facebook":"",
             "instagram":"",
@@ -4609,6 +4925,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4623,6 +4940,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4637,10 +4955,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
-            "name":"Pijama Team Fansub(moribondi?)",
+            "name":"Pijama Team Fansub",
             "website":"http://pijama.mangalair.com",
             "facebook":"",
             "instagram":"",
@@ -4651,6 +4970,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"moribondi?",
             "selected":true
         },
 
@@ -4666,6 +4986,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4680,10 +5001,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
-            "name":"Pretty Subs(introvabili)",
+            "name":"Pretty Subs",
             "website":"",
             "facebook":"",
             "instagram":"",
@@ -4694,10 +5016,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"introvabili",
             "selected":true
         },
         {
-            "name":"Project Anime|Kyo(introvabili)",
+            "name":"Project Anime|Kyo",
             "website":"",
             "facebook":"",
             "instagram":"",
@@ -4708,10 +5031,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"introvabili",
             "selected":true
         },
         {
-            "name":"Project-X(introvabili)",
+            "name":"Project-X",
             "website":"",
             "facebook":"",
             "instagram":"",
@@ -4722,6 +5046,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"introvabili",
             "selected":true
         },
         {
@@ -4736,6 +5061,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4750,6 +5076,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4764,6 +5091,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4778,6 +5106,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4792,10 +5121,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
-            "name":"RANDOMFAGGOTS(sul sito degli SSK)",
+            "name":"RANDOMFAGGOTS",
             "website":"",
             "facebook":"",
             "instagram":"",
@@ -4806,6 +5136,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"sul sito degli SSK",
             "selected":true
         },
         {
@@ -4820,6 +5151,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4834,6 +5166,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4848,6 +5181,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4862,6 +5196,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4876,6 +5211,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4890,10 +5226,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
-            "name":"Ryuichi (introvabili)",
+            "name":"Ryuichi",
             "website":"",
             "facebook":"",
             "instagram":"",
@@ -4904,6 +5241,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"introvabili",
             "selected":true
         },
         {
@@ -4918,6 +5256,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4932,6 +5271,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4946,6 +5286,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -4960,10 +5301,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
-            "name":"ShareFenix</a> (già SubsFenix)",
+            "name":"ShareFenix",
             "website":"http://www.sharefenix.com/",
             "facebook":"",
             "instagram":"",
@@ -4974,6 +5316,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"già SubsFenix",
             "selected":true
         },
         {
@@ -4990,6 +5333,7 @@
                 "https://nyaa.si/user/SSK"
             ],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5004,6 +5348,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5018,6 +5363,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5032,6 +5378,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5046,6 +5393,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5060,6 +5408,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5074,6 +5423,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5088,6 +5438,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5102,6 +5453,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5116,6 +5468,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5130,6 +5483,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5144,6 +5498,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5158,6 +5513,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5172,6 +5528,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5186,6 +5543,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5200,6 +5558,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5214,6 +5573,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5228,6 +5588,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5242,6 +5603,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5256,6 +5618,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5270,6 +5633,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5284,6 +5648,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5298,6 +5663,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5312,6 +5678,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5326,6 +5693,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5340,6 +5708,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5354,6 +5723,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5368,6 +5738,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5382,10 +5753,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
-            "name":"Tekken-Subs(sul sito degli SSK)",
+            "name":"Tekken-Subs",
             "website":"",
             "facebook":"",
             "instagram":"",
@@ -5396,6 +5768,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"sul sito degli SSK",
             "selected":true
         },
         {
@@ -5410,6 +5783,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5424,6 +5798,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5438,6 +5813,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5452,6 +5828,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5466,6 +5843,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5480,6 +5858,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5494,6 +5873,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5508,6 +5888,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5522,6 +5903,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5536,10 +5918,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
-            "name":"UC-Cervello Team</a> (già UC Fansub e Cervello Team)",
+            "name":"UC-Cervello Team",
             "website":"http://www.uc-cervello.com/",
             "facebook":"",
             "instagram":"",
@@ -5550,6 +5933,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"già UC Fansub e Cervello Team",
             "selected":true
         },
         {
@@ -5564,6 +5948,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5578,6 +5963,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5592,6 +5978,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5606,6 +5993,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5620,6 +6008,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5634,6 +6023,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5648,6 +6038,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5662,6 +6053,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5676,6 +6068,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5690,6 +6083,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5704,6 +6098,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5718,6 +6113,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5732,6 +6128,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5746,6 +6143,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5760,6 +6158,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5774,6 +6173,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5788,6 +6188,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5802,6 +6203,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5816,6 +6218,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5830,6 +6233,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5844,6 +6248,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5858,6 +6263,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5872,6 +6278,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5886,6 +6293,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5900,6 +6308,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5914,6 +6323,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5928,6 +6338,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5942,6 +6353,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5956,6 +6368,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5970,6 +6383,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5984,6 +6398,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -5998,6 +6413,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -6012,6 +6428,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -6026,6 +6443,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -6040,6 +6458,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -6054,6 +6473,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -6068,6 +6488,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -6082,6 +6503,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -6096,6 +6518,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -6110,6 +6533,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -6124,6 +6548,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -6138,6 +6563,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -6152,10 +6578,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
-            "name":"Hentai for Italian Fans(chiedono abbonamento)",
+            "name":"Hentai for Italian Fans",
             "website":"",
             "facebook":"",
             "instagram":"",
@@ -6166,6 +6593,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"chiedono abbonamento",
             "selected":true
         },
         {
@@ -6180,6 +6608,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -6194,6 +6623,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -6208,6 +6638,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -6222,6 +6653,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -6236,6 +6668,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -6250,6 +6683,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -6264,6 +6698,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -6278,6 +6713,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -6292,6 +6728,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -6306,6 +6743,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -6320,10 +6758,11 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
-            "name":"Fansub Magazine Italia(moribondi?)",
+            "name":"Fansub Magazine Italia",
             "website":"",
             "facebook":"",
             "instagram":"",
@@ -6334,6 +6773,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"moribondi?",
             "selected":true
         },
         {
@@ -6348,6 +6788,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -6362,6 +6803,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -6376,6 +6818,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -6390,6 +6833,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -6404,6 +6848,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
 
@@ -6419,6 +6864,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
 
@@ -6434,6 +6880,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -6448,6 +6895,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -6462,6 +6910,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -6476,6 +6925,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -6490,6 +6940,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -6504,6 +6955,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -6518,6 +6970,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -6532,6 +6985,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         },
         {
@@ -6546,6 +7000,7 @@
             "otherLinks":[],
             "torrentSourceUrls":[],
             "rss":[],
+            "note":"",
             "selected":true
         }
     ]

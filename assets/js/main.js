@@ -99,20 +99,14 @@ function addRows(tableId, elements){
 	for (i=0; i<elements.length; i++){
 
 		let itemId = tableId + "_"  + i;
-		let website = elements[i].website;
+		let websiteAndSocial = buildWebsiteAndSocial(elements[i]);
 		let fansubName = elements[i].name;
-		// let facebook
-		// let twitter
-		// let telegramChannel
-		// let telegramGroup
-		// let discord
-		// let otherLinks
-		// let torrentSourceUrls
 
 		// fansubName = obj.fansubName;
 		// url = obj.url;
-		let social = buildSocial();
-		let other = elements[i].otherLinks.join("<br>");
+		let rss = buildRSS(elements[i].rss);
+		let torrent = buildTorrent(elements[i].torrentSourceUrls);
+		let note = elements[i].note
 		let selected = elements[i].selected ?? false
 
 		let emptyRow = `
@@ -135,9 +129,10 @@ function addRows(tableId, elements){
 				</label>
 			</th>
 			<td>${fansubName}</td>
-			<td><a href="${website}">${website}</a></td>
-			<td>${social}</td>
-			<td>${other}</td>
+			<td>${websiteAndSocial}</td>
+			<td>${torrent}</td>
+			<td>${rss}</td>
+			<td>${note}</td>
 		</tr>
 		`;
 		row = tbody.insertRow(-1);
@@ -148,10 +143,92 @@ function addRows(tableId, elements){
 	}
 }
 
-function buildSocial(){
-	return "";
+function buildWebsiteAndSocial(element){
+	let result = ""
+	if (element.website){
+		result = `<a title='Website - ${element.website}' href="${element.website}"><img src='assets/icons/web.png'></a>`
+	}
+	let linksArray = []
+	linksArray.push(
+		element.facebook,
+		element.instagram,
+		element.twitter,
+		element.telegramChannel,
+		element.telegramGroup,
+		element.discord
+	)
+	linksArray = linksArray.concat(element.otherLinks)
+
+	linksArray.forEach(link => {
+		if (link){
+			result += setLinkIcon(link)
+		}
+	});
+	return result
 }
 
+function buildRSS(rss){
+	let result = ""
+	rss.forEach(link => {
+		result += setLinkIcon(link, "rss")
+	});
+	return result
+}
+
+function buildTorrent(torrentUrls){
+	let result = ""
+	torrentUrls.forEach(link => {
+		result += setLinkIcon(link, "torrent")
+	});
+	return result
+}
+
+
+let linkToIcons ={
+	"anidex" : ["anidex.info/"],
+	"dailymotion" : ["dailymotion.com"],
+	"discord" : ["discord.gg","discord.com","discordapp.com"],
+	"facebook" : ["facebook.com","fb.me/"],
+	"github" : ["github.io/"],
+	"instagram" : ["instagram.com"],
+	"line" : ["line.me/"],
+	"nyaa" : ["nyaa.si/"],
+	"rss" : [],
+	"telegram" : ["t.me/"],
+	"tiktok" : ["tiktok.com/"],
+	"twitter" : ["twitter.com"],
+	"wattpad" : ["wattpad.com"],
+	"wechat" : ["weixin://dl/"],
+	"youtube" : ["youtube.com"]
+}
+
+function setLinkIcon(link, default_icon="link"){
+	const iconPath ="assets/icons/"
+	let tooltipText = null
+	let src = null
+
+	for (const [key, value] of Object.entries(linkToIcons)) {
+		for (let i = 0; i < value.length; i++) {
+			if (link.includes(value[i])){
+				tooltipText = key[0].toUpperCase() + key.substring(1) + " - " + link // capitalize first letter
+				src = iconPath + key + ".png"
+				break
+			}
+		}
+		if (tooltipText){
+			//already found solution
+			break
+		}
+	}
+	if (!tooltipText){
+		//no icon found, set default
+		tooltipText = link
+		src = iconPath + default_icon + ".png"	
+	}
+
+	let result = `<a title='${tooltipText}' href="${link}"><img src='${src}'></a>`
+	return result
+}
 
 
 function buildSearchLink(type){
