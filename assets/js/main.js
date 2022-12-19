@@ -10,6 +10,8 @@ async function loadData(){
 		.then(data => fansubData = data)
 		.catch(error => console.log(error));
 
+	document.getElementById("info").innerText = fansubData.last_update;
+
 	clearTable("alive")
 	addRows("alive", fansubData.alive)
 	bindHeadCheckbox("alive")
@@ -73,28 +75,9 @@ function clearTable(tableId){
 
 
 function addRows(tableId, elements){
-
-	// "website":"https://aegistranding.wordpress.com/",
-	// "name":"Aegi Stranding",
-	// "type":"",
-	// "facebook":"",
-	// "twitter":"",
-	// "telegramChannel":"",
-	// "telegramGroup":"",
-	// "discord":"",
-	// "otherLinks":[],
-	// "torrentSourceUrls":[]
-
 	let table = document.getElementById(tableId);
 	let tbody = table.getElementsByTagName("tbody")[0];
 
-	// 	table = document.getElementById(tableId);
-	// 	tbody = table.getElementsByTagName("tbody")[0];
-	// 	trs = tbody.children
-	// 	let i=0;
-
-	// 	}
-	// }
 	let i=0;
 	for (i=0; i<elements.length; i++){
 
@@ -146,7 +129,7 @@ function addRows(tableId, elements){
 function buildWebsiteAndSocial(element){
 	let result = ""
 	if (element.website){
-		result = `<a title='Website - ${element.website}' href="${element.website}"><img src='assets/icons/web.png'></a>`
+		result = `<a title='Website - ${element.website}' href="${element.website}" target="_blank"><img src='assets/icons/web.png'></a>`
 	}
 	let linksArray = []
 	linksArray.push(
@@ -210,7 +193,7 @@ function setLinkIcon(link, default_icon="link"){
 	for (const [key, value] of Object.entries(linkToIcons)) {
 		for (let i = 0; i < value.length; i++) {
 			if (link.includes(value[i])){
-				tooltipText = key[0].toUpperCase() + key.substring(1) + " - " + link // capitalize first letter
+				tooltipText = key[0].toUpperCase() + key.substring(1) + " - " + link // capitalize first letter of key
 				src = iconPath + key + ".png"
 				break
 			}
@@ -226,12 +209,14 @@ function setLinkIcon(link, default_icon="link"){
 		src = iconPath + default_icon + ".png"	
 	}
 
-	let result = `<a title='${tooltipText}' href="${link}"><img src='${src}'></a>`
+	let result = `<a title='${tooltipText}' href="${link}" target="_blank"><img src='${src}'></a>`
 	return result
 }
 
 
 function buildSearchLink(type){
+	let destParentDiv = document.getElementById("divResults")
+	let destDiv = document.getElementById("divResultsLinks")
 	let websites = [];
 	let torrents = [];
 	fansubData.alive.forEach(function(item){
@@ -258,29 +243,55 @@ function buildSearchLink(type){
 	let searchValue = document.getElementById("search").value;
 	let searchUrlsWebSites = ""
 	let searchUrlsTorrent = ""
+	
+	const chunkSize = 30; //google site limit is 32
+	let resultsLinks = [];
+	let resultCounter = 1
 	switch (type){
 		case "websites":
-			searchUrlsWebSites += websites.join(" OR site:");
-			searchLinkWeb = baseLink + intitle + searchValue + " site:" + searchUrlsWebSites
-			window.open(searchLinkWeb, '_blank').focus();
+			for (let i = 0; i < websites.length; i += chunkSize) {
+				searchUrlsWebSites = "";
+				chunk = websites.slice(i, i + chunkSize);
+				searchUrlsWebSites = chunk.join(" OR site:");
+				searchLinkWeb = `<a href="` + baseLink + intitle + searchValue + " site:" + searchUrlsWebSites + `" target="_blank">${searchValue.substr(0, 5)}... ${resultCounter}</a>`
+				resultsLinks.push(searchLinkWeb)
+				resultCounter++
+			}
+			//window.open(searchLinkWeb, '_blank').focus();
 			break;
 		case "torrents":
-			searchUrlsTorrent += torrents.join(" OR site:");
-			searchLinkTorrent = baseLink + searchValue + " site:" + searchUrlsTorrent
-			console.log(searchLinkTorrent);
-			window.open(searchLinkTorrent, '_blank').focus();
+			for (let i = 0; i < torrents.length; i += chunkSize) {
+				searchUrlsTorrent = "";
+				chunk = torrents.slice(i, i + chunkSize);
+				searchUrlsTorrent = chunk.join(" OR site:");
+				searchLinkTorrent = `<a href="` + baseLink + searchValue + " site:" + searchUrlsTorrent + `" target="_blank">${searchValue.substr(0, 5)}... ${resultCounter}</a>`
+				resultsLinks.push(searchLinkTorrent)
+				resultCounter++
+			}
 			break;
 		case "all":
-			searchUrlsWebSites += websites.join(" OR site:");
-			searchLinkWeb = baseLink + intitle + searchValue + " site:" + searchUrlsWebSites
-			window.open(searchLinkWeb, '_blank').focus();
-
-			searchUrlsTorrent += torrents.join(" OR site:");
-			searchLinkTorrent = baseLink + searchValue + " site:" + searchUrlsTorrent
-			console.log(searchLinkTorrent);
-			window.open(searchLinkTorrent, '_blank').focus();
+			for (let i = 0; i < websites.length; i += chunkSize) {
+				searchUrlsWebSites = "";
+				chunk = websites.slice(i, i + chunkSize);
+				searchUrlsWebSites = chunk.join(" OR site:");
+				searchLinkWeb = `<a href="` + baseLink + intitle + searchValue + " site:" + searchUrlsWebSites + `" target="_blank">${searchValue.substr(0, 5)}... ${resultCounter}</a>`
+				resultsLinks.push(searchLinkWeb)
+				resultCounter++
+			}
+			for (let i = 0; i < torrents.length; i += chunkSize) {
+				searchUrlsTorrent = "";
+				chunk = torrents.slice(i, i + chunkSize);
+				searchUrlsTorrent = chunk.join(" OR site:");
+				searchLinkTorrent = `<a href="` + baseLink + searchValue + " site:" + searchUrlsTorrent + `" target="_blank">${searchValue.substr(0, 5)}... ${resultCounter}</a>`
+				resultsLinks.push(searchLinkTorrent)
+				resultCounter++
+			}
 		default:
 	}
+
+	destDiv.innerHTML = "<h5>" + resultsLinks.join(" | ") + "</h5>"
+	destParentDiv.hidden = false;
+	destDiv.hidden = false;
 }
 
 

@@ -15,21 +15,40 @@
     <link rel="stylesheet" href="assets/css/style_002.css">
     <title>IFS - Italian Fansub Search</title>
 
+
+
 <body onload="loadData()">
+    <div class="header">
+        <h4>IFS - Italian Fansub Search</h4>
+        Questo tool nasce per cercare di semplificare la ricerca di titoli all'interno del panorama fansub italiano. Ovviamente esistono fansubdb, socialanime e diversi altri, ma spesso non tutto &egrave; listato. 
+        IFS genera i link di ricerca google filtrando i risultati per i siti/torrent selezionati. Cliccando sui link dei risultati verrete rediretti a una pagina di ricerca google.
+        I risultati sono multipli perch&eacute; le query free sono limitate ad un massimo di 32 siti per query. Se abusate di questa funzione di ricerca, google vi chieder&agrave; di provare che non siete un bot.
+        Poich&eacute; i risultati della ricerca dipendono strettamente dall'indicizzazione di google, dal formato dei siti dei fansub e da come sono scritti i post dei vari annunci, la ricerca potrebbe dare risultati incompleti.<br>
+        Nelle tabelle sottostanti sono riportati i riferimenti e link dei fansub (attivi e non) e di vari attori che operano nel panorama italiano.<br>
+        Si ringrazia immensamente Vaz per aver stilato la <a href="https://recensubshq.forumfree.it/?t=58293588" target="_blank">lista iniziale</a> dei fansub. Il codice e i dati dei fansub sono disponibili su <a href="https://github.com/dvd14986/ifs_italian_fansub_search" target="_blank">github.</a>
+        Per contatti <a href="https://t.me/dvd14986" target="_blank">@dvd14986</a> su telegram.<br>
+        <p></p>
+        Ultimo aggiornamento dei dati <b><span id="info"></span></b>
+    </div>
+
     <div class="divSearch">
-        
         <form clase="searchForm" onkeydown="return event.key != 'Enter';" onsubmit="event.preventDefault();" role="search">
-            <!-- <center>
-                <label class="searchLabel" for="search">Insert Anime name and search</label>
-            </center> -->
-            <input class="searchInput" id="search" type="search" placeholder="Search for fansubbed anime..." autofocus required />
+            <input class="searchInput" id="search" type="search" placeholder="Titolo dell'anime..." autofocus required />
             <div class="divButton">
-                <button class="button-43" role="button" onclick="buildSearchLink('websites')">Only Web</button>
-                <button class="button-43" role="button" onclick="buildSearchLink('torrents')">Only Torrent</button>
-                <button class="button-43" role="button" onclick="buildSearchLink('all')">Search All</button>
+                <button class="button-43" role="button" onclick="buildSearchLink('websites')">Solo Web</button>
+                <button class="button-43" role="button" onclick="buildSearchLink('torrents')">Solo Torrent</button>
+                <button class="button-43" role="button" onclick="buildSearchLink('all')">Tutto</button>
             </div>
         </form>
     </div>
+    <div class="divResults" id="divResults" hidden>
+            <h3>Cliccare sui link per i risultati della ricerca</h3></br>
+    </div>
+    <div class="divResultsLinks" id="divResultsLinks" hidden>
+
+    </div>
+
+    
     <div class="content">
         <div class="row" style="justify-content: center;margin:0">
 

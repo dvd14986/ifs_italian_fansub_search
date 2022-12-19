@@ -247,3 +247,45 @@ h2 {
     padding: 1rem 2rem;
   }
 }
+
+
+.divResults{
+  box-sizing: border-box;
+  font-size: 10px;;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 30px;
+  color: #fff;
+}
+
+.divResultsLinks{
+  box-sizing: border-box;
+  font-size: 18px;;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+  color: #fff;
+}
+.divResultsLinks a:hover{
+  color: #fff;
+}
+
+.header{
+  box-sizing: border-box;
+  font-size: 106x;;
+  margin-top: 30px;
+  margin-left: 50px;
+  margin-right: 50px;
+  color:#fff;
+  text-align: justify;
+  text-justify: inter-word
+}
+
+.header a:hover{
+  color: #fff;
+}
+.header a{
+  color: rgb(35, 212, 65);
+}
