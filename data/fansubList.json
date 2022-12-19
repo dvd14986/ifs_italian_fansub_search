@@ -1122,10 +1122,12 @@
             "facebook":"",
             "instagram":"",
             "twitter":"",
-            "telegramChannel":"",
+            "telegramChannel":"https://t.me/BMZoneAnime",
             "telegramGroup":"",
             "discord":"",
-            "otherLinks":[],
+            "otherLinks":[
+                "https://t.me/BMZoneAnime2"
+            ],
             "torrentSourceUrls":[],
             "rss":[],
             "note":"si occupa del recupero delle release dei gruppi chiusi",
