@@ -25,8 +25,8 @@ h2 {
   font-size: 20px;
   color: #fff; }
 
-.custom-table {
-  min-width: 900px; }
+/* .custom-table {
+  min-width: 900px; } */
   .custom-table thead tr, .custom-table thead th {
     border-top: none;
     border-bottom: none !important;
@@ -149,7 +149,9 @@ h2 {
     padding: 0.5rem;
   }
 
-
+.left_border {
+  border-left: 1px solid rgba(255, 255, 255, 0.719) !important;
+}
 
 
 :root {

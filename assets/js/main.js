@@ -5,7 +5,9 @@
 var fansubData = "";
 async function loadData(){
 	//load fansub data
-	await fetch("./data/fansubList.json?time=" + Date.now())
+	// await fetch("./data/fansubList.json?time=" + Date.now())
+	//fetch directly from github
+	await fetch("https://raw.githubusercontent.com/dvd14986/ifs_italian_fansub_search/master/data/fansubList.json?time=" + Date.now())
 		.then(response => response.json())
 		.then(data => fansubData = data)
 		.catch(error => console.log(error));
@@ -112,10 +114,10 @@ function addRows(tableId, elements){
 				</label>
 			</th>
 			<td>${fansubName}</td>
-			<td>${websiteAndSocial}</td>
-			<td>${torrent}</td>
-			<td>${rss}</td>
-			<td>${note}</td>
+			<td class="left_border">${websiteAndSocial}</td>
+			<td class="left_border">${torrent}</td>
+			<td class="left_border">${rss}</td>
+			<td class="left_border">${note}</td>
 		</tr>
 		`;
 		row = tbody.insertRow(-1);
