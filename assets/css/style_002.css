@@ -30,7 +30,8 @@ h2 {
   .custom-table thead tr, .custom-table thead th {
     border-top: none;
     border-bottom: none !important;
-    color: #fff; }
+    color: #fff; 
+    word-break: break-word;}
   .custom-table tbody th, .custom-table tbody td {
     color: #777;
     font-weight: 400;
@@ -74,6 +75,24 @@ h2 {
     background: #2e2e36; }
     .custom-table tbody tr.active th a, .custom-table tbody tr.active td a, .custom-table tbody tr:hover th a, .custom-table tbody tr:hover td a {
       color: #fff; }
+      .custom-table td {
+        padding: 0px;
+      }
+      .custom-table th {
+        vertical-align: middle;
+      }
+
+.name_col {
+  padding-left: 0.75rem !important;
+  vertical-align: middle !important;
+  word-break: break-word;
+}
+
+.left_border {
+  border-left: 1px solid rgba(255, 255, 255, 0.719) !important;
+  word-break: break-word;
+}
+
 
 /* Custom Checkbox */
 .control {
@@ -144,14 +163,14 @@ h2 {
 
   .section_global {
     border: 1px solid black;
-    margin: 20px;
+    margin: 2px;
     float: left;
     padding: 0.5rem;
   }
 
-.left_border {
-  border-left: 1px solid rgba(255, 255, 255, 0.719) !important;
-}
+
+
+
 
 
 :root {
@@ -187,7 +206,7 @@ h2 {
   color: var(--color-dark);
   font-size: 1.8rem;
   outline: 0; /* // <-- shold probably remove this for better accessibility, adding for demo aesthetics for now. */
-  width: 100%;
+  width: 95%;
   background: var(--color-light);
   padding: 0 1.6rem;
   border-radius: var(--rad);
@@ -278,8 +297,8 @@ h2 {
   box-sizing: border-box;
   font-size: 106x;;
   margin-top: 30px;
-  margin-left: 50px;
-  margin-right: 50px;
+  margin-left: 10px;
+  margin-right: 10px;
   color:#fff;
   text-align: justify;
   text-justify: inter-word

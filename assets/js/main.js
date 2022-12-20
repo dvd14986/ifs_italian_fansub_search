@@ -113,7 +113,7 @@ function addRows(tableId, elements){
 					<div class="control__indicator"></div>
 				</label>
 			</th>
-			<td>${fansubName}</td>
+			<td class="name_col">${fansubName}</td>
 			<td class="left_border">${websiteAndSocial}</td>
 			<td class="left_border">${torrent}</td>
 			<td class="left_border">${rss}</td>
